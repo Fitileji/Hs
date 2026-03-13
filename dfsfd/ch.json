@@ -26,11 +26,11 @@
     },
     {
       "name": "🏳️ World (VLESS) #6",
-      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@178.253.22.252:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.theworkpc.com&type=ws&headerType=none&host=snippet.danfeng.theworkpc.com&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@138.124.81.204:443?encryption=none&security=tls&sni=snippet.fgfw.ye.gs&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #7",
-      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@138.124.81.204:443?encryption=none&security=tls&sni=snippet.fgfw.ye.gs&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@138.124.81.204:443?encryption=none&security=tls&sni=snippet.fgfw.ye.gs&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия #1",
@@ -41,8 +41,8 @@
       "url": "vless://c858a27e-e271-41b6-98d3-a1a55d851e99@bovpn-est.odbo.tech:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kEa6jlXPBrk-7NQGGR-mN6An1eXHEwSd2DMMNhtLQEU&sid=0922ca730299d13f&sni=bovpn-est.odbo.tech&echfq=none&allowinsecure=0#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇦🇱 Албания #1",
-      "url": "vless://21915536-afb5-4a0c-b047-fcf549d3a173@meow-alban.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "name": "🇳🇱 Нидерланды #1",
+      "url": "vless://464854c0-d879-433b-8ae2-28bfe19ed08e@nl2.fastdbn.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&fp=firefox&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇯🇵 Япония #1",
@@ -57,7 +57,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Updated 2026-03-13 11:00. Servers: 13 (1 Premium)",
+    "release_notes": "Updated 2026-03-13 12:00. Servers: 13 (1 Premium)",
     "required": false
   },
   "update_windows": {
