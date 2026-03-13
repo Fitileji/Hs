@@ -10,11 +10,11 @@
     },
     {
       "name": "🏳️ World (VLESS) #2",
-      "url": "vless://00000000-0000-4000-8000-000000000000@144.31.75.246:30001?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@198.105.124.249:443?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #3",
-      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@198.105.124.249:443?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://00000000-0000-4000-8000-000000000000@144.31.75.246:30001?&security=tls&sni=sub.mot.ip-ddns.com&type=ws&headerType=none&host=sub.mot.ip-ddns.com&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #4",
@@ -37,12 +37,8 @@
       "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@de.pp.prod.n7.homes:8444?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇩🇪 Германия #2",
-      "url": "vless://0b792f43-fcfb-4a75-815d-9b8008f232e2@ger.odavpn.online:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-N1Y2walsji05aICtev1QFO0Y-F6AshnPrzsRBUQryI&sid=6c&sni=yahoo.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇩🇪 Германия #3",
-      "url": "vless://f6eb5903-35ae-42d0-b60a-9e01e51e6d99@de-5.vpnd.io:43881?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=0OjbaFdJ3LVEpRBR4dfX2dnZK5ZdBGK58lKbvPaABg8&sid=6b7294d7b5ec&sni=amazon.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D"
+      "name": "🇪🇪 Эстония #1",
+      "url": "vless://c858a27e-e271-41b6-98d3-a1a55d851e99@bovpn-est.odbo.tech:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=kEa6jlXPBrk-7NQGGR-mN6An1eXHEwSd2DMMNhtLQEU&sid=0922ca730299d13f&sni=bovpn-est.odbo.tech&echfq=none&allowinsecure=0#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇦🇱 Албания #1",
@@ -61,7 +57,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Updated 2026-03-13 10:00. Servers: 14 (1 Premium)",
+    "release_notes": "Updated 2026-03-13 11:00. Servers: 13 (1 Premium)",
     "required": false
   },
   "update_windows": {
