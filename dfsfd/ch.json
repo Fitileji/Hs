@@ -34,15 +34,11 @@
     },
     {
       "name": "🇩🇪 Германия #4",
-      "url": "vless://932130c7-197b-4b37-af26-d550c47ba8f4@cdn4.api-rutube.ru:443?type=tcp&security=&encryption=none&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇩🇪 Германия #5",
       "url": "vless://2563b829-866c-4c0f-8270-a91cffbfe852@de24.abvpn.ru:443?type=tcp&security=reality&fp=firefox&pbk=eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8&sid=0f8e3fce&sni=www.tradingview.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇩🇪 Германия #6",
-      "url": "vless://9bef38a5-31a7-4e36-af48-01697fae00a2@87.120.216.5:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=de6.krasivogame.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "name": "🇩🇪 Германия #5",
+      "url": "vless://2563b829-866c-4c0f-8270-a91cffbfe852@de31.abvpn.ru:443?type=tcp&security=reality&fp=firefox&pbk=Wg_prcp8fAsUrveCKVqBsk_8mWuKurQb-0N3H1e35mk&sid=5c999707&sni=www.tradingview.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇷🇺 Россия #1",
@@ -53,36 +49,40 @@
       "url": "vless://d51f31b4-6e74-4a57-8ea0-a62830df3f45@r-cdn.api.plnt.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=r-cdn.api.plnt.su&fp=&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%28Tsentralnyy%20administrativnyy%20okrug%29%20%7C%20%5BBL%5D"
     },
     {
+      "name": "🇸🇪 Швеция #1",
+      "url": "vless://6bd5e67b-e1fb-48b5-bf8c-bebb3dc6be7e@se.trustnew.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=google.com&pbk=OQjBJQGg4SWU7ty4f5pWrf7_RwBzYAAKgT8tuDaM_ko#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+    },
+    {
       "name": "🏳️ World (VLESS) #1",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram+@WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🏳️ World (VLESS) #2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🏳️ World (VLESS) #3",
       "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🏳️ World (VLESS) #4",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🏳️ World (VLESS) #5",
+      "name": "🏳️ World (VLESS) #2",
       "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🏳️ World (VLESS) #6",
+      "name": "🏳️ World (VLESS) #3",
       "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🏳️ World (VLESS) #7",
+      "name": "🏳️ World (VLESS) #4",
       "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=/Telegram#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇸🇪 Швеция #1",
-      "url": "vless://975f547a-92c3-4561-9cad-dd3c44d5dcb4@api9.maps-yandex.net:10970?type=tcp&security=reality&flow=xtls-rprx-vision&sni=deepl.com&pbk=_RCN3b8MUJE61ES111k45TLrvB_nUi1pywAO5sc0OF0&fp=qq&sid=cb8ba29900e2f68b#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D"
+      "name": "🏳️ World (VLESS) #5",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram+@WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+    },
+    {
+      "name": "🏳️ World (VLESS) #6",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&encryption=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+    },
+    {
+      "name": "🏳️ World (VLESS) #7",
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+    },
+    {
+      "name": "🇪🇪 Эстония #1",
+      "url": "vless://d51f31b4-6e74-4a57-8ea0-a62830df3f45@ee-1.api.plnt.su:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ee-1.api.plnt.su&fp=&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%28Kesklinna%20linnaosa%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇨🇦 Канада #1",
@@ -97,7 +97,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Updated 2026-03-16 09:00. Servers: 23 (1 Premium)",
+    "release_notes": "Updated 2026-03-16 10:00. Servers: 23 (1 Premium)",
     "required": false
   },
   "update_windows": {
