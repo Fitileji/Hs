@@ -17,12 +17,16 @@
       "url": "vless://2563b829-866c-4c0f-8270-a91cffbfe852@alb03.tcpdoor.net:443?type=xhttp&security=tls&fp=random&sni=alb03.tcpdoor.net&path=c1a7c061-bf4d-4a96-b10f-64f484aa2a9a&host=alb03.tcpdoor.net&mode=auto&alpn=h2#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Elbasan%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
+      "name": "🇫🇮 Финляндия (доп) #1",
+      "url": "vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@95.85.251.112:500?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=unpkg.com&path=&host=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
+    },
+    {
       "name": "🇩🇪 Германия #1",
       "url": "vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@87.120.216.107:465?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=download.docker.com&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия #2",
-      "url": "vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@87.120.187.191:587?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=cdn.jsdelivr.net&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
+      "url": "vless://0c56d165-7005-4655-8b9e-4f6888b50318@72.56.111.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PfGssDs5ytIrnYZHz2f596v3k5OBZuq5-ZRGsoO0WVY&security=reality&sni=www.apple.com&spx=%2FrMvAB4cS409QRWl&type=tcp&sid=ae89a6fd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия #3",
@@ -38,66 +42,66 @@
     },
     {
       "name": "🏳️ World (VLESS) #1",
-      "url": "vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.182.148.222:11300?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #2",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.233.213:8443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #3",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&encryption=none&host=ylnhh.cc.cd&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #4",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram@WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%2B%40WangCai2&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #5",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?type=ws&security=tls&encryption=none&fp=chrome&sni=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&host=zgtwylnhh.cc.cd&serviceName=&quicSecurity=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #6",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@66.92.20.111:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram@WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #7",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@94.183.185.96:443?security=tls&sni=zgtwylnhh.cc.cd&type=ws&host=zgtwylnhh.cc.cd&path=Telegram🇨🇳#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇵🇱 Польша #1",
-      "url": "vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@best1.kluchnik2014.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇵🇱 Польша #2",
       "url": "vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@am1.kluchnik2014.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇰🇷 Южная Корея #1",
-      "url": "vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?type=tcp&security=reality&encryption=none&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&fp=random&sni=yahoo.com&sid=82ac&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "name": "🇵🇱 Польша #2",
+      "url": "vless://096d2cea-e1d5-4b68-ada3-6349a272ecad@best1.kluchnik2014.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇰🇷 Южная Корея #2",
+      "name": "🇰🇷 Южная Корея #1",
       "url": "vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇰🇷 Южная Корея #3",
-      "url": "vless://1a8c4353-8aa9-4038-99a8-b613ad47000e@hke01.jumperservice.com:19001?security=reality&type=tcp&sni=www.speedtest.org&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Anyang-si%20%7C%20%5BBL%5D"
+      "name": "🇰🇷 Южная Корея #2",
+      "url": "vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?type=tcp&security=reality&encryption=none&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&fp=random&sni=yahoo.com&sid=82ac&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Seoul%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇰🇷 Южная Корея #4",
+      "name": "🇰🇷 Южная Корея #3",
       "url": "vless://5ab22628-9dc7-48c4-c56e-f129da583baa@hke01.jumperservice.com:19001?security=reality&type=tcp&sni=www.speedtest.org&fp=random&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Anyang-si%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇫🇮 Финляндия (доп) #1",
-      "url": "vless://0f7ee331-3a78-4341-acbb-39b9b7bd7f47@95.85.251.112:500?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=unpkg.com&path=&host=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D"
+      "name": "🇰🇷 Южная Корея #4",
+      "url": "vless://1a8c4353-8aa9-4038-99a8-b613ad47000e@hke01.jumperservice.com:19001?security=reality&type=tcp&sni=www.speedtest.org&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Anyang-si%20%7C%20%5BBL%5D"
+    },
+    {
+      "name": "🇯🇵 Япония #1",
+      "url": "vless://e3444624-2b1e-4567-b9b0-782a1ea59e5f@bgp.mfxy.shop:20238?security=reality&type=tcp&sni=www.yahoo.com&fp=safari&flow=xtls-rprx-vision&sid=3a0d5d97&pbk=DXQDAGxccP5NiuFoqBVTZwd-IJ1bspO---aSVBiujRo&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%5BBL%5D"
     }
   ],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Updated 2026-03-17 20:00. Servers: 23 (1 Premium)",
+    "release_notes": "Updated 2026-03-17 21:00. Servers: 24 (1 Premium)",
     "required": false
   },
   "update_windows": {
