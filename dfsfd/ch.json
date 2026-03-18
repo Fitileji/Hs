@@ -14,15 +14,15 @@
     },
     {
       "name": "🏳️ World (VLESS) #3",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?security=tls&sni=ylnhh.cc.cd&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%2B%40WangCai2&allowInsecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&encryption=none&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #4",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #5",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?encryption=none&security=tls&sni=ylnhh.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🏳️ World (VLESS) #6",
@@ -30,11 +30,15 @@
     },
     {
       "name": "🏳️ World (VLESS) #7",
-      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?&security=tls&fp=chrome&sni=ylnhh.cc.cd&type=ws&headerType=none&host=ylnhh.cc.cd&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
+      "url": "vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@59.3.3.161:8443?type=ws&encryption=none&host=ylnhh.cc.cd&path=%2FTelegram&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇴 Норвегия #1",
       "url": "vless://19cb2ba5-d074-42d6-8400-6d9183514f48@148.135.195.143:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&sni=www.google.com&host=www.google.com#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%7C%20%5BBL%5D"
+    },
+    {
+      "name": "🇸🇪 Швеция #1",
+      "url": "vless://2507ae48-5119-46e2-a6f6-aef39b15f2b1@se-arn-2.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4_6L715q33OQgaQ5to4ZQe_U1C3uXADtMP8V31F1BFY&sid=e5d360c3&sni=se-arn-2.blook.network&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды #1",
@@ -43,10 +47,6 @@
     {
       "name": "🇳🇱 Нидерланды #2",
       "url": "vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@nl.yt.prod.n7.homes:8444?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=google.com&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eindhoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇸🇪 Швеция #1",
-      "url": "vless://2507ae48-5119-46e2-a6f6-aef39b15f2b1@se-arn-2.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4_6L715q33OQgaQ5to4ZQe_U1C3uXADtMP8V31F1BFY&sid=e5d360c3&sni=se-arn-2.blook.network&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇰🇷 Южная Корея #1",
@@ -61,7 +61,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Updated 2026-03-18 06:00. Servers: 14 (1 Premium)",
+    "release_notes": "Updated 2026-03-18 07:00. Servers: 14 (1 Premium)",
     "required": false
   },
   "update_windows": {
