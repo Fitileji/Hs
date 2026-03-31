@@ -1,35 +1,99 @@
 {
   "configs": [
     {
-      "name": "🇩🇪 Германия",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-de-wc.ray-proxy.ru:443?security=reality&encryption=none&pbk=Vwjuz1ao8dsRTSqK9ewfDhb36nBa5n3Fr8bW8bioRyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-de-th.ray-proxy.ru:443?security=reality&encryption=none&pbk=cpa71wXR_MC3KF4k-UdncOdyzyJLcFbhfxGKPUkvREQ&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%233"
-    },
-    {
-      "name": "🇳🇱 Нидерланды",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-nl-1c.ray-proxy.ru:443?security=reality&encryption=none&pbk=1Hr3vZv1JC7PuvH8iGfA7LyMHi2afnvp9y_q507I0Ew&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "name": "🇨🇭 Швейцария",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-ch-co.ray-proxy.ru:443?security=reality&encryption=none&pbk=29rxp4KkkiRwPRgWGnQH60t8ZNkYYv6VAyyGo3ExKWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇺🇸 США",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-us-3h.ray-proxy.ru:443?security=reality&encryption=none&pbk=yv34gnRb9bf4gHXtpIPKle_uJ4DsJuabES4yPdhqjFI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90"
+      "name": "🇷🇺 Россия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@193.233.250.141:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%231%20Russia%20-%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B"
     },
     {
       "name": "🇷🇺 Россия",
-      "url": "vless://b94325f2-11a5-4e93-9982-a332eaabde5f@in-ru-hsv.ray-proxy.ru:443?security=reality&encryption=none&pbk=sfyoNKqOeL-AXPLy4NwlIMS7qVHpf5iGNZK_yZD-Zh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@seot.fontanvpn.com:443?security=reality&encryption=none&pbk=eeVE68aCO9d6BAdT25EiX1XRHE-xDil1Cd1RgQOVk10&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b7e#%F0%9F%87%B7%F0%9F%87%BA%232%20Russia%20-%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B"
+    },
+    {
+      "name": "🇷🇺 Россия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@are.tokervpn.ru:443?security=reality&encryption=none&pbk=eeVE68aCO9d6BAdT25EiX1XRHE-xDil1Cd1RgQOVk10&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=3b7e#%F0%9F%87%B7%F0%9F%87%BA%233%20Russia%20-%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20"
+    },
+    {
+      "name": "🇷🇺 Россия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@rostelekom.tokervpn.ru:8080?security=reality&encryption=none&pbk=EIRQAl_YVql2xraSE3iu9jFyBoHqSclirTxIDQKIFhE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=fa38#%F0%9F%87%B7%F0%9F%87%BA%234%20Russia%20-%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20"
+    },
+    {
+      "name": "🇫🇷 Франция",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@teofrance.softupdatecenter.com:443?security=reality&encryption=none&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20YouTube%2C%20TikTok%2C%20Inst%2C%20GPT"
+    },
+    {
+      "name": "🇫🇷 Франция",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@rkn.tokervpn.ru:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%20Inst%2C%20YouTube%2C%20TikTok%2C%20GPT"
+    },
+    {
+      "name": "🇧🇪 Бельгия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@belogram.tokervpn.ru:8080?security=reality&encryption=none&pbk=EIRQAl_YVql2xraSE3iu9jFyBoHqSclirTxIDQKIFhE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=fa38#%F0%9F%87%A7%F0%9F%87%AA%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%2C%20YouTube%2C%20Telegram%2C%20Ti%D0%BATok"
+    },
+    {
+      "name": "🇧🇪 Бельгия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@tiktok.tokervpn.ru:443?security=reality&encryption=none&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A7%F0%9F%87%AA%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%2C%20YouTube%2C%20Telegram%2C%20WA"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@kilo.tokervpn.ru:443?security=reality&encryption=none&pbk=orWExoHrebxYlPMK3fxMun54ud2HfYm5WA8LliuiZQg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20%20GPT%2C%20YouTube%2C%20%D0%A2%D0%A2%2C%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%2C%20ROBLOX"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@tula.tokervpn.ru:443?security=reality&encryption=none&pbk=orWExoHrebxYlPMK3fxMun54ud2HfYm5WA8LliuiZQg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#%F0%9F%87%B3%F0%9F%87%B1%20%20YouTube%2C%20%D0%A2%D0%A2%2C%20%D0%98%D0%BD%D1%81%D1%82%D0%B0%2C%20%D0%A2G"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@apis.tokervpn.ru:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20YouTube%2C%20Inst%2C%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2C%20WA%2C%20D-cord"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@eda.tokervpn.ru:443?security=reality&encryption=none&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A2%D0%B8%D0%BA%D0%A2%D0%BE%D0%BA%2C%20Inst%2C%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2C%20WA%2C%20D-cord"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@cofe.tokervpn.ru:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20GPT%2C%20TT%2C%20WhatsApp%2C%20GAME"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@178.17.57.25:443?security=reality&encryption=none&pbk=ZBZBHY2vVapX0z5c1DvQmKyMXkwct8uUD_qIJSWd4G0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=panarmenian.net&sid=6ba85179e30d4fc2#%F0%9F%87%A9%F0%9F%87%AA%20YouTube%2C%20GPT%2C%20TT%2C%20GAME"
+    },
+    {
+      "name": "🇺🇸 США",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@proxy.tokervpn.ru:443?security=reality&encryption=none&pbk=_KWaAx7lWx6djrNlVoR6ccrK7PEfEZB9d8iU79tZXEY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%BA%F0%9F%87%B8%20Roblox%2C%20TikTok%2C%20YouTube%2C%20Ds%2C%20GPT"
+    },
+    {
+      "name": "🇺🇸 США",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@spatki.tokervpn.ru:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%BA%F0%9F%87%B8%20Game%2C%20TikTok%2C%20YouTube%2C%20Ds%2C%20GPT"
+    },
+    {
+      "name": "🇺🇸 США",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@xui.tokervpn.ru:443?security=reality&encryption=none&pbk=AFejAxl-6RGMmxYedpX2nwABAAEB5IpsecwB6xp8RhI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=steel.tokervpn.ru&sid=6ba85179e30d4fc2#%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%2C%20WhatsApp%2C%20Insta%2C%20YouTube"
+    },
+    {
+      "name": "🇺🇸 США",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@vova.tokervpn.ru:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%BA%F0%9F%87%B8%20Inst%2C%20TikTok%2C%20YouTube%2C%20Ds%2C%20GPT"
+    },
+    {
+      "name": "🇦🇲 Армения",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@rubot.tokervpn.ru:443?security=reality&encryption=none&pbk=ZBZBHY2vVapX0z5c1DvQmKyMXkwct8uUD_qIJSWd4G0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=panarmenian.net&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B2%20Roblox%2C%20Inst%2C%20TikTok%2C%20YouTube%2C%20Ds"
+    },
+    {
+      "name": "🇦🇲 Армения",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@dimon.tokervpn.ru:443?security=reality&encryption=none&pbk=ZBZBHY2vVapX0z5c1DvQmKyMXkwct8uUD_qIJSWd4G0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=panarmenian.net&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B2%20GPT%2C%20TikTok%2C%20YouTube%2C%20iNST"
+    },
+    {
+      "name": "🇦🇲 Армения",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@himki.tokervpn.ru:443?security=reality&encryption=none&pbk=_KWaAx7lWx6djrNlVoR6ccrK7PEfEZB9d8iU79tZXEY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B2%20Inst%2C%20TikTok%2C%20YouTube%2C%20Ds"
+    },
+    {
+      "name": "🇦🇲 Армения",
+      "url": "vless://8edf567f-c5b1-4dce-8a9d-1bf10d12d63d@am.softupdatecenter.com:443?security=reality&encryption=none&pbk=KW23a9A86rHbgHUJLm3C-rzv94MkBlPPN7XBbrbX_hc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tokermod.ru&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B2%20Inst%2C%20TikTok%2C%20YouTube%2C%20Ds%2C%20GPT"
     }
   ],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 31.03.2026 08:37",
+    "release_notes": "Обновление серверов: 31.03.2026 22:32",
     "required": false
   },
   "update_windows": {
