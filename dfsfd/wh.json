@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇷🇺 Россия",
+      "url": "vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.221:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233"
+    },
+    {
       "name": "🇳🇱 Нидерланды",
       "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@83.143.112.208:443?security=reality&encryption=none&pbk=VQxTr6MtjSlTfkZ2Hh3P6xTClgjkKLIJ1qwTkge0WFs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=68a26b6f#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
     },
@@ -11,10 +15,6 @@
     {
       "name": "🇫🇮 Финляндия",
       "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@144.31.203.80:443?security=reality&encryption=none&pbk=d-G25A89ccup0n3pyexUSF5dZs3prq0IJJobN7T-uSc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=85a14065#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇹🇷 Турция",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@45.12.143.181:443?security=reality&encryption=none&pbk=Jzc_vHFzdSAAW9C3mLhRugFvNvWhKu2SJqL9CwLyZFQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=2b44d28a#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F"
     },
     {
       "name": "🇺🇸 США",
@@ -38,10 +38,6 @@
     },
     {
       "name": "🇷🇺 Россия",
-      "url": "vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.221:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233"
-    },
-    {
-      "name": "🇷🇺 Россия",
       "url": "vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.221:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%234"
     },
     {
@@ -61,7 +57,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 01.04.2026 07:40",
+    "release_notes": "Обновление серверов: 01.04.2026 07:41",
     "required": false
   },
   "update_windows": {
