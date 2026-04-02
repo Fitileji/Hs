@@ -1,63 +1,10 @@
 {
-  "configs": [
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.221:8443?mode=gun&security=reality&encryption=none&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&fp=chrome&type=grpc&serviceName=UpdateService&sni=sso.passport.yandex.ru&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233"
-    },
-    {
-      "name": "🇳🇱 Нидерланды",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@83.143.112.208:443?security=reality&encryption=none&pbk=VQxTr6MtjSlTfkZ2Hh3P6xTClgjkKLIJ1qwTkge0WFs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=68a26b6f#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
-    },
-    {
-      "name": "🇳🇱 Нидерланды",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@212.109.218.228:443?security=reality&encryption=none&pbk=5NPcvEgcNZnOpVgHkfLwrUNYvd2oUO8Bbd8KQbyE3kk&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=06c8cce2#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4"
-    },
-    {
-      "name": "🇫🇮 Финляндия",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@144.31.203.80:443?security=reality&encryption=none&pbk=d-G25A89ccup0n3pyexUSF5dZs3prq0IJJobN7T-uSc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=85a14065#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇺🇸 США",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@74.119.194.19:443?security=reality&encryption=none&pbk=Mt5Eh52MW0VQyn-z9L5fnPyt3Wf1J4Aj9cRL1cIkkVE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=44b695a3#%F0%9F%87%BA%F0%9F%87%B8%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0"
-    },
-    {
-      "name": "🇯🇵 Япония",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@5.253.41.202:443?security=reality&encryption=none&pbk=9rL4XDeok388czG3tj-b9iQZWSsdg98PYC1XUobCPTE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=ced59397#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@193.58.121.232:443?security=reality&encryption=none&pbk=bPvkriEmNh9sxpTn_ItOo2Lxg8IUYvlvBz8MGvey40Y&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=66e7fd9e#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@212.109.219.30:443?security=reality&encryption=none&pbk=bTAa_naQZhgXD8iFrBIo0LuNVEu1BP4KuxJYAUPw1Xo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=aa378d1f#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%E2%84%961"
-    },
-    {
-      "name": "🇪🇸 Испания",
-      "url": "vless://ce048159-b63a-408e-ab9d-55b70628f7a7@45.12.150.166:443?security=reality&encryption=none&pbk=O9ZfSAPI8l0GzSIDRSvCbvNldgOdzxBtd42LEMfLlEI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d077906e#%F0%9F%87%AA%F0%9F%87%B8%20%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.221:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%234"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.182.221:7443?mode=gun&security=reality&encryption=none&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&fp=qq&type=grpc&serviceName=UpdateService&sni=ads.x5.ru&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%235"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://7916a696-e9fb-44e4-af09-488fdc882054@212.233.121.82:443?security=reality&encryption=none&pbk=THxJyX4Gsf_upzu8gDgNMmlJWVkP56k4FQrPUhM5hmc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vkru10.enotfast.net&sid=12b4bc7ca90e01#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://3e475097-30b0-48f9-bbab-807e9741a3d4@95.163.183.232:443?security=reality&encryption=none&pbk=RyZCy7kaDjib78AsHEwpMxKjyaeKWbXkrMbZVFtvFiM&headerType=none&fp=chrome&spx=%2FzGqlDyKYhHGWcsW&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=53#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232"
-    }
-  ],
+  "configs": [],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 01.04.2026 07:41",
+    "release_notes": "Обновление серверов: 02.04.2026 10:10",
     "required": false
   },
   "update_windows": {
