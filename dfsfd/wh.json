@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇷🇺 Россия",
+      "url": "vless://d959873c-0d8d-4d7e-bd3e-25c6146a0cd1@62.152.59.69:443?security=reality&encryption=none&pbk=yOvW1TZSlp5YvRh3BcYnfdchi_4i-giWMotW9RCEKwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8"
+    },
+    {
       "name": "🇬🇧 Великобритания 1",
       "url": "vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&type=tcp&security=tls&sni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23262"
     },
@@ -15,10 +19,6 @@
     {
       "name": "🇬🇧 Великобритания 4",
       "url": "vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&type=tcp&security=tls&sni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23381"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://d959873c-0d8d-4d7e-bd3e-25c6146a0cd1@62.152.59.69:443?security=reality&encryption=none&pbk=yOvW1TZSlp5YvRh3BcYnfdchi_4i-giWMotW9RCEKwM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8"
     },
     {
       "name": "🇷🇺 Россия",
@@ -37,7 +37,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 02.04.2026 12:01",
+    "release_notes": "Обновление серверов: 02.04.2026 12:02",
     "required": false
   },
   "update_windows": {
