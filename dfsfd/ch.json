@@ -18,11 +18,19 @@
     },
     {
       "name": "🇳🇱 Нидерланды",
-      "url": "vless://f6d94308-bf09-43ca-b60a-a0a7f48f3e16@138.124.101.11:443?type=tcp&encryption=none&security=reality&pbk=O2fSbtbPryW2lhVBOZKD-csxCtopqstjxX92RUJYkAw&fp=chrome&sni=cdn.jsdelivr.net&sid=dec3de27&spx=%2F&flow=xtls-rprx-vision#8ku6ybz2"
+      "url": "vless://ac7b2678-4a57-41e7-b271-7c2ad6fd432f@138.124.101.11:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=KGGIzFDjV-JPhpqin8AfzF1cV1masyhFVBof3x3tryA&fp=chrome&sni=www.intel.com&sid=f0b0fa3493ce7ddc&spx=%2F#f5bok2s3"
     },
     {
       "name": "🇳🇱 Нидерланды",
-      "url": "vless://bf5b6308-4018-47da-8d0f-553fc8858564@138.124.101.11:443?type=tcp&encryption=none&security=reality&pbk=O2fSbtbPryW2lhVBOZKD-csxCtopqstjxX92RUJYkAw&fp=chrome&sni=cdn.jsdelivr.net&sid=dec3de27&spx=%2F&flow=xtls-rprx-vision#4q0yrjk7"
+      "url": "vless://6461109c-2695-465d-a3dc-f4f08964ec7c@138.124.101.11:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=KGGIzFDjV-JPhpqin8AfzF1cV1masyhFVBof3x3tryA&fp=chrome&sni=www.intel.com&sid=f0b0fa3493ce7ddc&spx=%2F#txqpq298"
+    },
+    {
+      "name": "🇨🇿 Чехия",
+      "url": "vless://2ed89837-5ce5-4c77-b5ad-429545c51219@45.151.183.144:443?type=tcp&encryption=none&security=reality&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&fp=chrome&sni=www.icloud.com&sid=87b9e2fe3b597c&spx=%2F&flow=xtls-rprx-vision#udqgyd0f"
+    },
+    {
+      "name": "🇨🇿 Чехия",
+      "url": "vless://6bf93b2b-58cf-427f-8ef3-d09c77d9f3e4@45.151.183.144:443?type=tcp&encryption=none&security=reality&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&fp=chrome&sni=www.icloud.com&sid=87b9e2fe3b597c&spx=%2F&flow=xtls-rprx-vision#vjkq2q11"
     },
     {
       "name": "🇸🇪 Швеция",
@@ -31,14 +39,6 @@
     {
       "name": "🇸🇪 Швеция",
       "url": "vless://ade55488-3d3b-4712-b197-d4304267fdc0@89.169.35.175:443?type=tcp&encryption=none&security=reality&pbk=jmZFmuqUXUy57dFnuoPdFm8OTqV9LBmnXY0rUPNgSR0&fp=chrome&sni=cdn.jsdelivr.net&sid=d35b28&spx=%2F&flow=xtls-rprx-vision#bq3dij8m"
-    },
-    {
-      "name": "🇨🇿 Чехия",
-      "url": "vless://6bf93b2b-58cf-427f-8ef3-d09c77d9f3e4@45.151.183.144:443?type=tcp&encryption=none&security=reality&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&fp=chrome&sni=www.icloud.com&sid=87b9e2fe3b597c&spx=%2F&flow=xtls-rprx-vision#vjkq2q11"
-    },
-    {
-      "name": "🇨🇿 Чехия",
-      "url": "vless://2ed89837-5ce5-4c77-b5ad-429545c51219@45.151.183.144:443?type=tcp&encryption=none&security=reality&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&fp=chrome&sni=www.icloud.com&sid=87b9e2fe3b597c&spx=%2F&flow=xtls-rprx-vision#udqgyd0f"
     },
     {
       "name": "🇹🇷 Турция",
@@ -53,7 +53,7 @@
     "version": "1.0.9",
     "build_number": 9,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.9/MirrorVPN-1.0.9.apk",
-    "release_notes": "Обновление серверов: 25.05.2026 16:02",
+    "release_notes": "Обновление серверов: 25.05.2026 16:09",
     "required": false
   },
   "update_windows": {
