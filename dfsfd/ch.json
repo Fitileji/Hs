@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇩🇪 Германия",
+      "url": "vless://90353b80-b591-0114-8772-e51f13db4c90@audio.ru.convert-flow.net:443?type=tcp&security=reality&pbk=G0cYCIeDQa12DMYQksBJjF52ErwWunJqBhzUB2WMfEc&fp=chrome&sni=audio.ru.convert-flow.net&sid=1bfe0a2cd873d3d0&flow=xtls-rprx-vision#🇩🇪_Germany_4_audio"
+    },
+    {
       "name": "🇨🇿 Чехия",
       "url": "vless://6bf93b2b-58cf-427f-8ef3-d09c77d9f3e4@45.151.183.144:443?security=reality&encryption=none&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=87b9e2fe3b597c#vjkq2q11"
     },
@@ -27,17 +31,13 @@
     {
       "name": "🇦🇹 Австрия",
       "url": "vless://13538f17-bedc-41ca-bb03-a85bbb47a31e@8-node-midas.com:443?type=tcp&security=reality&pbk=imiuPhoSx5whN6nFNssg1kvLOUNdJSS7aShm78VRBUo&fp=firefox&sni=amd.com&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&encryption=none#🇦🇱 Албания"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://90353b80-b591-0114-8772-e51f13db4c90@audio.ru.convert-flow.net:443?type=tcp&security=reality&pbk=G0cYCIeDQa12DMYQksBJjF52ErwWunJqBhzUB2WMfEc&fp=chrome&sni=audio.ru.convert-flow.net&sid=1bfe0a2cd873d3d0&flow=xtls-rprx-vision#🇩🇪_Germany_4_audio"
     }
   ],
   "update": {
     "version": "1.0.9",
     "build_number": 9,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.9/MirrorVPN-1.0.9.apk",
-    "release_notes": "Обновление серверов: 03.06.2026 21:49",
+    "release_notes": "Обновление серверов: 03.06.2026 21:55",
     "required": false
   },
   "update_windows": {
