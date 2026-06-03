@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇨🇿 Чехия",
+      "url": "vless://6bf93b2b-58cf-427f-8ef3-d09c77d9f3e4@45.151.183.144:443?security=reality&encryption=none&pbk=Kmiql12DX_69DoB19BCbfQZ4JoLMj9LTVTbHkS7Ltgs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=87b9e2fe3b597c#vjkq2q11"
+    },
+    {
       "name": "🇺🇸 США",
       "url": "vless://7843c99f-7f6a-4e89-8efc-87022c4dea43@213.165.50.255:8443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=b6caqXPWvnj9Df42WMYjEv9h9hfPAkFGd-wf3OHPrgk&fp=firefox&sni=www.amd.com&sid=9707c834&spx=%2F#50ljd9cl"
     },
@@ -25,7 +29,7 @@
     "version": "1.0.9",
     "build_number": 9,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.9/MirrorVPN-1.0.9.apk",
-    "release_notes": "Обновление серверов: 01.06.2026 01:36",
+    "release_notes": "Обновление серверов: 03.06.2026 12:44",
     "required": false
   },
   "update_windows": {
