@@ -2,18 +2,22 @@
   "configs": [
     {
       "name": "🇭🇺 Венгрия 1",
-      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23178"
+      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.197:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23180"
     },
     {
       "name": "🇭🇺 Венгрия 2",
-      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.197:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23180"
+      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23178"
     },
     {
       "name": "🇭🇺 Венгрия 3",
       "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.136.163:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23179"
     },
     {
-      "name": "🇷🇺 Россия",
+      "name": "🇷🇺 Россия 1",
+      "url": "vless://5cd26f2d-e015-42f6-b999-fc1ac8284bc8@212.67.12.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=windows64.net&pbk=gRiIgKvVibyGZ2E2Oe5smDFBxtUYH7IWISfkUGrozC0&sid=2c5b9267fa9bb0d0#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2311"
+    },
+    {
+      "name": "🇷🇺 Россия 2",
       "url": "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2313"
     },
     {
@@ -22,26 +26,26 @@
     },
     {
       "name": "🇩🇪 Германия 2",
-      "url": "vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.43:25567?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2323"
-    },
-    {
-      "name": "🇩🇪 Германия 3",
       "url": "vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2319"
     },
     {
-      "name": "🇩🇪 Германия 4",
+      "name": "🇩🇪 Германия 3",
       "url": "vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.45:25565?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=img.perekrestok.ru&pbk=Pw1EUU1hud5uvtfySGyGy5vV38bYIiQzDx-cDQoAdk0&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2321"
     },
     {
-      "name": "🇩🇪 Германия 5",
+      "name": "🇩🇪 Германия 4",
       "url": "vless://b84bd2ec-6a5d-4fbb-89af-31cc8ef458d7@78.159.245.118:25567?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=iv.kommersant.ru&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&sid=a5bd715847213387#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2333"
+    },
+    {
+      "name": "🇩🇪 Германия 5",
+      "url": "vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=chrome&sni=loadtest.dev.urent.ru&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2315"
     }
   ],
   "update": {
     "version": "1.0.9",
     "build_number": 9,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.9/MirrorVPN-1.0.9.apk",
-    "release_notes": "Обновление серверов: 12.06.2026 16:41",
+    "release_notes": "Обновление серверов: 12.06.2026 17:02",
     "required": false
   },
   "update_windows": {
