@@ -14,18 +14,22 @@
     },
     {
       "name": "🇷🇺 Россия 1",
-      "url": "vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&security=tls&path=%2Fwsru&sni=vlessru.duckdns.org#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2321"
+      "url": "vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&security=tls&path=%2Fwsru&fp=chrome&sni=vlessru.duckdns.org#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2322"
     },
     {
       "name": "🇷🇺 Россия 2",
-      "url": "vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&security=tls&path=%2Fwsru&fp=chrome&sni=vlessru.duckdns.org#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2322"
+      "url": "vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:8443?encryption=none&type=ws&security=tls&path=%2Fwsru&sni=vlessru.duckdns.org#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2321"
+    },
+    {
+      "name": "🇷🇺 Россия 3",
+      "url": "vless://bbd01a89-4ffc-43e3-a91d-af3ec66f1c48@37.9.4.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cloud.mail.ru&pbk=A41b2Th15KC7t1hSRTvkA3-CzZfv1DD1XOV2L5ICuA0&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Yakovlev%20Denis%20Alexandrovich%20%E2%80%94%20%2314"
     }
   ],
   "update": {
     "version": "1.0.9",
     "build_number": 9,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.9/MirrorVPN-1.0.9.apk",
-    "release_notes": "Обновление серверов: 19.06.2026 15:36",
+    "release_notes": "Обновление серверов: 19.06.2026 15:57",
     "required": false
   },
   "update_windows": {
