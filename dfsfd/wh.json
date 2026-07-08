@@ -1,103 +1,135 @@
 {
   "configs": [
     {
-      "name": "🇷🇺 Россия 1",
-      "url": "vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232"
-    },
-    {
-      "name": "🇷🇺 Россия 2",
-      "url": "vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%2311"
-    },
-    {
-      "name": "🇷🇺 Россия 3",
-      "url": "vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%233"
-    },
-    {
-      "name": "🇷🇺 Россия 4",
-      "url": "vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231"
-    },
-    {
-      "name": "🇷🇺 Россия 5",
-      "url": "vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237"
-    },
-    {
       "name": "🇳🇱 Нидерланды 1",
-      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23284"
+      "url": "vless://4bd5dd1c-b666-4b40-8aeb-abf57fc8b726@87.228.124.242:443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ru.polyarhub.com&pbk=cByTcSybJYS5iSvLiepXqhSoMhBgWdeiX2PjxpqLvR4&sid=11e0631ac2dfc7fa&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23301"
     },
     {
       "name": "🇳🇱 Нидерланды 2",
-      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23230"
+      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23213"
     },
     {
       "name": "🇳🇱 Нидерланды 3",
-      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23289"
+      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23230"
     },
     {
       "name": "🇳🇱 Нидерланды 4",
-      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23262"
+      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23289"
     },
     {
       "name": "🇳🇱 Нидерланды 5",
-      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23288"
+      "url": "vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.191.91:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rezerv8.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23225"
     },
     {
       "name": "🇮🇳 Индия 1",
-      "url": "vless://8de651f4-d04a-401f-b3dd-56bb39c0b390@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23187"
+      "url": "vless://8de651f4-d04a-401f-b3dd-56bb39c0b390@195.208.65.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23204"
     },
     {
       "name": "🇮🇳 Индия 2",
-      "url": "vless://2aec71bd-ec24-4ed5-9bc6-ed1af16ce74f@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23188"
+      "url": "vless://2aec71bd-ec24-4ed5-9bc6-ed1af16ce74f@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23207"
     },
     {
       "name": "🇮🇳 Индия 3",
-      "url": "vless://2aec71bd-ec24-4ed5-9bc6-ed1af16ce74f@195.208.65.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23186"
+      "url": "vless://8de651f4-d04a-401f-b3dd-56bb39c0b390@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23206"
     },
     {
       "name": "🇮🇳 Индия 4",
       "url": "vless://8de651f4-d04a-401f-b3dd-56bb39c0b390@195.208.65.195:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23185"
     },
     {
-      "name": "🇪🇪 Эстония 1",
-      "url": "vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.252.95:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=G6ekEx_2qJMHo-DzjF7ww8UPbPiVSd8A6LY5yn-i3XU&sid=83915e401341#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23129"
-    },
-    {
-      "name": "🇪🇪 Эстония 2",
-      "url": "vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.22.195:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=9tKfmbONYzchVLBVki3UDOBgulMw2-_9fV5qm4aPiiM&sid=700e5b8399d12d#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23130"
-    },
-    {
-      "name": "🇱🇹 Литва",
-      "url": "vless://02a15f51-c3f5-42f4-88bf-f44f8ae4f798@195.208.65.150:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23229"
-    },
-    {
-      "name": "🇺🇸 США",
-      "url": "vless://43857e9b-1031-420a-8cde-06036796c9b4@217.16.21.108:7443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23309"
+      "name": "🇮🇳 Индия 5",
+      "url": "vless://8de651f4-d04a-401f-b3dd-56bb39c0b390@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23187"
     },
     {
       "name": "🇩🇪 Германия 1",
-      "url": "vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fuser&host=s10211.cdn.ngenix.net&fp=chrome&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2354"
+      "url": "vless://4bd5dd1c-b666-4b40-8aeb-abf57fc8b726@92.53.64.241:443?encryption=none&type=grpc&security=reality&mode=gun&fp=QQ&sni=ru.vostokhub.com&pbk=M4HrL_LOJa2mlimPGjHOwfTqWCFN0tPnmdiKMJCwDzk&sid=fb9e2842cb738845&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23138"
     },
     {
       "name": "🇩🇪 Германия 2",
-      "url": "vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fuser&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2359"
+      "url": "vless://604a4993-5b08-4d18-a0a1-e03cebeb2885@5.188.115.159:8446?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=360.yandex.ru&pbk=rUCHk3_64Wv_f_v46OfVNYldKu9fUqHpX937bmGeeDs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23101"
     },
     {
       "name": "🇩🇪 Германия 3",
-      "url": "vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fuser&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2356"
+      "url": "vless://604a4993-5b08-4d18-a0a1-e03cebeb2885@31.129.42.234:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&authority=360.yandex.ru&fp=qq&sni=360.yandex.ru&pbk=ZpXBddDY5CBXaRTnUz4lM4xs_KBVX4CPulN-q9AqhAI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23102"
+    },
+    {
+      "name": "🇩🇪 Германия 4",
+      "url": "vless://dc149731-87a1-4fab-b178-b1ddaacb084c@158.160.249.252:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=ads.x5.ru&pbk=v6rib0-2FxBd1MnBxdylbIRIhvXywSj56QEtCkaEuBo&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23122"
+    },
+    {
+      "name": "🇩🇪 Германия 5",
+      "url": "vless://dc149731-87a1-4fab-b178-b1ddaacb084c@51.250.91.220:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=random&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23129"
+    },
+    {
+      "name": "🇷🇺 Россия",
+      "url": "vless://ad997094-40d4-461c-baf1-759d987351c3@192.144.13.35:59242?encryption=none&type=raw&security=none#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2338"
+    },
+    {
+      "name": "🇪🇪 Эстония 1",
+      "url": "vless://d8141dc8-de8e-4681-b673-64726fe26d0d@93.93.88.78:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=s81381.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23144"
+    },
+    {
+      "name": "🇪🇪 Эстония 2",
+      "url": "vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.22.195:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=9tKfmbONYzchVLBVki3UDOBgulMw2-_9fV5qm4aPiiM&sid=700e5b8399d12d#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23140"
+    },
+    {
+      "name": "🇪🇪 Эстония 3",
+      "url": "vless://d8141dc8-de8e-4681-b673-64726fe26d0d@45.11.26.234:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=wl-7-6.nodes.ac&pbk=QxW0nwrOXYHuEeL4PXObUDEackg-ebQ_9Vgl01IwsxM&sid=77173c666c84bec1#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23142"
+    },
+    {
+      "name": "🇪🇪 Эстония 4",
+      "url": "vless://d8141dc8-de8e-4681-b673-64726fe26d0d@213.226.112.213:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-7-5.nodes.ac&pbk=sXOFKo2LTiE3qg7Z68FIiwTYvhNNSAOTx9AYMuUoUnk&sid=07d3a29177aefcb6#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23141"
+    },
+    {
+      "name": "🇪🇪 Эстония 5",
+      "url": "vless://f6aaa6db-d249-4dab-bc44-8ce670060de3@158.160.252.95:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=G6ekEx_2qJMHo-DzjF7ww8UPbPiVSd8A6LY5yn-i3XU&sid=83915e401341#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23139"
     },
     {
       "name": "🇫🇮 Финляндия 1",
-      "url": "vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23138"
+      "url": "vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@141.98.87.48:9999?encryption=none&type=raw&security=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23150"
     },
     {
       "name": "🇫🇮 Финляндия 2",
-      "url": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&spx=%2Fo7Aaf6fjwgbitolAe#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23137"
+      "url": "vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23149"
+    },
+    {
+      "name": "🇫🇷 Франция",
+      "url": "vless://1b479a9e-7b31-4d75-adb4-3f03fe06dce2@195.209.90.4:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=edge&sni=s28797.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23159"
+    },
+    {
+      "name": "🇬🇧 Великобритания 1",
+      "url": "vless://604a4993-5b08-4d18-a0a1-e03cebeb2885@185.178.208.176:443?encryption=none&type=ws&security=tls&path=%2Fstream%2F615428%2Fsocket&fp=chrome&sni=founders-blog.online&alpn=h3%2Ch2#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23164"
+    },
+    {
+      "name": "🇬🇧 Великобритания 2",
+      "url": "vless://8c69b798-0a68-42cf-ae27-ff4fc618e5ee@45.10.246.207:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=sun6-20.userapi.com&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23162"
+    },
+    {
+      "name": "🇱🇹 Литва",
+      "url": "vless://1b479a9e-7b31-4d75-adb4-3f03fe06dce2@195.209.87.198:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=edge&sni=s43362.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23211"
+    },
+    {
+      "name": "🇵🇱 Польша",
+      "url": "vless://4bd5dd1c-b666-4b40-8aeb-abf57fc8b726@82.148.29.20:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=gifs.ru&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23303"
+    },
+    {
+      "name": "🇸🇪 Швеция",
+      "url": "vless://604a4993-5b08-4d18-a0a1-e03cebeb2885@176.109.85.83:13443?encryption=none&type=grpc&security=reality&mode=gun&fp=firefox&sni=ads.x5.ru&pbk=Nf7ubmIjmmOjQKlTgiG8e8wbYbz_x9q1GjEeHFLMPSc#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23304"
+    },
+    {
+      "name": "🇹🇷 Турция",
+      "url": "vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@5.188.115.226:9443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&fp=firefox&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%E2%80%94%20%23305"
+    },
+    {
+      "name": "🇺🇸 США",
+      "url": "vless://43857e9b-1031-420a-8cde-06036796c9b4@217.16.21.108:7443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23306"
     }
   ],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 08.07.2026 19:50",
+    "release_notes": "Обновление серверов: 08.07.2026 20:21",
     "required": false
   },
   "update_windows": {
