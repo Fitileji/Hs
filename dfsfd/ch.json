@@ -1,12 +1,12 @@
 {
   "configs": [
     {
-      "name": "🇳🇱 Нидерланды",
-      "url": "vless://57fcddcf-e91e-4a9c-8a3b-f0fa9607ca69@138.16.184.123:444?type=tcp&security=reality&sni=ads.x5.ru&pbk=n9tFDSBvLVWje_hxPG5QqEZIf-ZhqbNH-i1PfmAHYkQ&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#168_russia_tcp"
-    },
-    {
       "name": "🇺🇸 США",
       "url": "vless://a986b186-a775-49e8-a4f6-cf5e35b17d9f@213.165.50.255:41839?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=0-R0BL7PGwBy-kAY7JqsmS0afpBTatXRen-7iokQzC0&fp=chrome&sni=yandex.ru&sid=63df53&spx=%2F#mczh859e"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "url": "vless://57fcddcf-e91e-4a9c-8a3b-f0fa9607ca69@138.16.184.123:444?type=tcp&security=reality&sni=ads.x5.ru&pbk=n9tFDSBvLVWje_hxPG5QqEZIf-ZhqbNH-i1PfmAHYkQ&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#168_russia_tcp"
     },
     {
       "name": "🇳🇱 Нидерланды",
@@ -105,7 +105,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 08.07.2026 23:28",
+    "release_notes": "Обновление серверов: 08.07.2026 23:34",
     "required": false
   },
   "update_windows": {
