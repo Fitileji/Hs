@@ -5,6 +5,10 @@
       "url": "vless://a986b186-a775-49e8-a4f6-cf5e35b17d9f@213.165.50.255:41839?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=0-R0BL7PGwBy-kAY7JqsmS0afpBTatXRen-7iokQzC0&fp=chrome&sni=yandex.ru&sid=63df53&spx=%2F#mczh859e"
     },
     {
+      "name": "🇩🇪 Германия",
+      "url": "vless://5fd5f717-6e3e-4c86-a28e-8223c2f10e05@195.2.73.38:444?type=tcp&security=reality&sni=ads.x5.ru&pbk=I8RxbygZ9FycsoidYNeLZ0ar2AFNL9_5ft6X6O6p8yk&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#170_russia_tcp"
+    },
+    {
       "name": "🇳🇱 Нидерланды",
       "url": "vless://57fcddcf-e91e-4a9c-8a3b-f0fa9607ca69@138.16.184.123:444?type=tcp&security=reality&sni=ads.x5.ru&pbk=n9tFDSBvLVWje_hxPG5QqEZIf-ZhqbNH-i1PfmAHYkQ&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#168_russia_tcp"
     },
@@ -86,10 +90,6 @@
     },
     {
       "name": "🇩🇪 Германия",
-      "url": "vless://5fd5f717-6e3e-4c86-a28e-8223c2f10e05@195.2.73.38:444?type=tcp&security=reality&sni=ads.x5.ru&pbk=I8RxbygZ9FycsoidYNeLZ0ar2AFNL9_5ft6X6O6p8yk&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#170_russia_tcp"
-    },
-    {
-      "name": "🇩🇪 Германия",
       "url": "vless://4e2dbeab-af9b-4c99-9425-b5e1cf618c58@193.124.65.224:446?type=tcp&security=reality&sni=ads.x5.ru&pbk=PzlsmQPdilBKsjg8x1DSChU_APJBSudkRbyqOUe_KlQ&fp=firefox&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#79_russia_tcp"
     },
     {
@@ -105,7 +105,7 @@
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 08.07.2026 23:34",
+    "release_notes": "Обновление серверов: 09.07.2026 00:05",
     "required": false
   },
   "update_windows": {
