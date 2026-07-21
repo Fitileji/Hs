@@ -1,87 +1,71 @@
 {
   "configs": [
     {
-      "name": "🇵🇱 Польша",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@pl.lockaway.top:443?type=xhttp&encryption=none&security=tls&sni=pl.lockaway.top&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv2%2Fstream%2F&host=pl.lockaway.top#%F0%9F%87%B5%F0%9F%87%B1%20Wi-Fi%20%7C%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%2010%D0%B3%D0%B1%D0%B8%D1%82%20%231%20"
-    },
-    {
-      "name": "🇪🇪 Эстония",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@ee.lockaway.top:443?type=xhttp&encryption=none&security=tls&sni=ee.lockaway.top&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv2%2Fstream%2F&host=ee.lockaway.top#%F0%9F%87%AA%F0%9F%87%AA%20Wi-Fi%20%7C%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%2010%D0%B3%D0%B1%D0%B8%D1%82%20%231%20"
-    },
-    {
-      "name": "🇸🇪 Швеция",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@sweden.loneliumvpn.click:443?type=xhttp&encryption=none&security=tls&sni=sweden.loneliumvpn.click&fp=edge&alpn=h2&path=%2Fapi%2Fv1%2F&host=sweden.loneliumvpn.click#%F0%9F%87%B8%F0%9F%87%AA%20Wi-Fi%20%7C%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%231%20"
+      "name": "🇫🇷 Франция",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@wsfr.nodsvpnspace.com:8443?type=ws&encryption=none&security=tls&sni=wsfr.nodsvpnspace.com&fp=qq&alpn=http%2F1.1&path=%2Fws&host=wsfr.nodsvpnspace.com#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%7C%20WebSocket%20%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
       "name": "🇳🇱 Нидерланды",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@82.202.159.153:443?type=xhttp&encryption=none&path=%2Fapi%2Fv1%2F&host=82.202.159.153#%F0%9F%87%B3%F0%9F%87%B1%20%20%F0%9F%87%B3%F0%9F%87%B1%20Wi-Fi%20%7C%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%2010%D0%B3%D0%B1%D0%B8%D1%82%20%231%20"
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@nltcp.nodsvpnspace.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
-      "name": "🇩🇪 Германия",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@31.77.152.49:443?type=xhttp&encryption=none&path=%2Fapi%2Fv1%2F&host=31.77.152.49#%F0%9F%87%A9%F0%9F%87%AA%20%20%F0%9F%87%A9%F0%9F%87%AA%20Wi-Fi%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231%20"
+      "name": "🇮🇹 Италия",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@it-hyst.nodsvpnspace.com:443?type=xhttp&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&path=%2F&host=www.yandex.ru#%F0%9F%87%AE%F0%9F%87%B9%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%7C%20XHTTP%20%F0%9F%87%AE%F0%9F%87%B9"
     },
     {
-      "name": "🇩🇪 Германия 2",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@jormany.lockaway.top:443?type=xhttp&encryption=none&security=tls&sni=jormany.lockaway.top&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv2%2Fstream%2F&host=jormany.lockaway.top#%F0%9F%87%A9%F0%9F%87%AA%20%20%F0%9F%87%A9%F0%9F%87%AA%20Wi-Fi%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231%20%28%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29"
-    },
-    {
-      "name": "🇩🇪 Германия 3",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@94.183.219.254:443?type=xhttp&encryption=none&path=%2Fapi%2Fv1%2F&host=94.183.219.254#%F0%9F%87%A9%F0%9F%87%AA%20%20%F0%9F%87%A9%F0%9F%87%AA%20%D0%98%D0%93%D0%A0%D0%9E%D0%92%D0%9E%D0%99%20%7C%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%233"
+      "name": "🇦🇹 Австрия",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@aust-alw2.nodsvpnspace.com:443?type=xhttp&encryption=none&security=tls&sni=aust-alw2.nodsvpnspace.com&fp=qq&alpn=h2%2Chttp%2F1.1&path=%2F&host=aust-alw2.nodsvpnspace.com#%F0%9F%87%A6%F0%9F%87%B9%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%7C%20XHTTP%20%F0%9F%87%A6%F0%9F%87%B9"
     },
     {
       "name": "🇺🇸 США",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@usa.lockaway.top:443?type=xhttp&encryption=none&security=tls&sni=usa.lockaway.top&fp=firefox&alpn=h2%2Chttp%2F1.1&path=%2Fapi%2Fv2%2Fstream%2F&host=usa.lockaway.top#%F0%9F%87%BA%F0%9F%87%B8%20Wi-Fi%20%7C%20%D0%A1%D0%A8%D0%90%20%231%20%28GEMINI%29"
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@103.41.177.63:8443?type=ws&encryption=none&security=tls&sni=usa-ws2.nodsvpnspace.com&fp=qq&alpn=http%2F1.1&path=%2Fws&host=usa-ws2.nodsvpnspace.com#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20WebSocket%20%F0%9F%87%BA%F0%9F%87%B8"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@104.167.24.210:8443?type=ws&encryption=none&security=tls&sni=de-hyst.nodsvpnspace.com&fp=qq&alpn=http%2F1.1&path=%2Fws&host=de-hyst.nodsvpnspace.com#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20WebSocket%20%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "name": "🇩🇪 Германия 2",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@87.120.126.91:443?type=xhttp&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&path=%2F&host=www.yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20XHTTP%20%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "name": "🇨🇿 Чехия",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@144.31.94.230:443?type=xhttp&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&path=%2F&host=www.yandex.ru#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20%7C%20XHTTP%20%F0%9F%87%A8%F0%9F%87%BF"
+    },
+    {
+      "name": "🇧🇪 Бельгия",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@144.31.94.165:443?type=xhttp&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&path=%2F&host=www.yandex.ru#%F0%9F%87%A7%F0%9F%87%AA%20%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F%20%7C%20XHTTP%20%F0%9F%87%A7%F0%9F%87%AA"
+    },
+    {
+      "name": "🇬🇧 Великобритания",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@31.76.39.209:443?type=ws&encryption=none&security=tls&sni=ws-gb.nodsvpnspace.com&fp=qq&alpn=http%2F1.1&path=%2Fws&host=ws-gb.nodsvpnspace.com#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%7C%20WebSocket%20%F0%9F%87%AC%F0%9F%87%A7"
     },
     {
       "name": "🇺🇸 США 2",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@37.18.102.21:443?type=xhttp&encryption=none&path=%2Fapi%2Fv1%2F&host=37.18.102.21#%F0%9F%87%BA%F0%9F%87%B8%20Wi-Fi%20%7C%20%D0%A1%D0%A8%D0%90%20%232%20%28GEMINI%29"
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@usa.nodsvpnspace.com:443?type=xhttp&encryption=none&security=reality&sni=yandex.ru&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&path=%2F&host=www.yandex.ru#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20XHTTP%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
-      "name": "🇷🇺 Россия",
-      "url": "vless://c3c1b943-55e1-49b1-a14d-79951e67bd7d@5.188.150.21:443?type=xhttp&encryption=none&path=%2Fapi%2Fv1%2F&host=5.188.150.21#%F0%9F%87%B7%F0%9F%87%BA%20%20Wi-Fi%20%7C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%28YT%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%29"
+      "name": "🇵🇱 Польша",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@31.56.188.70:443?type=grpc&encryption=none&security=reality&sni=deepl.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&serviceName=deepl-grpc#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20gRPC%20%F0%9F%87%B5%F0%9F%87%B1"
     },
     {
-      "name": "🇩🇪 Германия 4",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@rez.net.fintgo.ru:22231?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=qq&pbk=DvANos2u9LgVynAtbqczrB2B4CleQ6LH_ZZWSQfBwiU&sid=9d80d03bfa37cfa4#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20"
+      "name": "🇹🇷 Турция",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@77.83.245.92:443?type=grpc&encryption=none&security=reality&sni=deepl.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&serviceName=deepl-grpc#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%F0%9F%87%B9%F0%9F%87%B7"
     },
     {
-      "name": "🇵🇱 Польша 2",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@pelr.fintgo.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=qq&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20"
+      "name": "🇯🇵 Япония",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@31.76.91.151:443?type=grpc&encryption=none&security=reality&sni=deepl.com&fp=qq&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9&serviceName=deepl-grpc#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20gRPC%20%F0%9F%87%AF%F0%9F%87%B5"
     },
     {
-      "name": "🇫🇮 Финляндия",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@fen.fintgo.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=qq&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇳🇱 Нидерланды 2",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@nedr.fintgo.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=qq&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4#%F0%9F%87%B3%F0%9F%87%B1%20%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20"
-    },
-    {
-      "name": "🇷🇺 Россия 2",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@tesh.fintgo.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=firefox&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4#%F0%9F%87%B7%F0%9F%87%BA%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B"
-    },
-    {
-      "name": "🇫🇮 Финляндия 2",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@eston.fintgo.ru:443?type=grpc&encryption=none&security=reality&sni=www.aviasales.com&fp=chrome&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4&spx=%2F&serviceName=xyz#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%28%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29"
-    },
-    {
-      "name": "🇪🇪 Эстония 2",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@finr.fintgo.ru:443?type=grpc&encryption=none&security=reality&sni=www.aviasales.com&fp=chrome&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4&spx=%2F&serviceName=xyz#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%28%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29%20"
-    },
-    {
-      "name": "🇩🇪 Германия 5",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@rez2.ger.fintgo.ru:443?type=grpc&encryption=none&security=reality&sni=www.aviasales.com&fp=chrome&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4&spx=%2F&serviceName=xyz#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%28%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29"
-    },
-    {
-      "name": "🇺🇸 США 3",
-      "url": "vless://f303d03c-df80-45cc-a479-54d841a45bb8@us.ser.fintgo.ru:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.aviasales.com&fp=qq&pbk=y9JNA7ngX9pPXEjkE8Lh9xz-ysJrI924Eg9INMQ4vlw&sid=9d80d03bfa37cfa4#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%28%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98%29"
+      "name": "🇰🇿 Казахстан",
+      "url": "vless://cd439543-ec89-4893-9d94-6dbe337541bf@kz1-node.vpnspacev.com:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=reality&sni=ebay.com&fp=firefox&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=06bf5b24acb9#%F0%9F%87%B0%F0%9F%87%BF%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%20TCP%20%F0%9F%87%B0%F0%9F%87%BF"
     }
   ],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 21.07.2026 18:58",
+    "release_notes": "Обновление серверов: 21.07.2026 19:58",
     "required": false
   },
   "update_windows": {
