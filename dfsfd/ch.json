@@ -326,14 +326,14 @@
     },
     {
       "name": "🇺🇸 США",
-      "url": "vless://e5983daa-f795-4837-b601-5bec41ea1d41@77.110.125.14:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.oobqfglJbobcDWp4tXbYry6Ym2klSi845BkMdql3uFY&serviceName=&authority=&security=reality&pbk=AK-J4tMQ2zEzpUoRYfHpj4200MotYOQo7tdNNMzJ1RU&fp=chrome&sni=ymail.com&sid=3fc04ed4665463ed&spx=%2F2c691247873bf4e#%D0%A1%D0%A8%D0%90"
+      "url": "vless://e5983daa-f795-4837-b601-5bec41ea1d41@77.110.125.14:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.oobqfglJbobcDWp4tXbYry6Ym2klSi845BkMdql3uFY&security=reality&sni=ymail.com&fp=chrome&pbk=AK-J4tMQ2zEzpUoRYfHpj4200MotYOQo7tdNNMzJ1RU&sid=3fc04ed4665463ed&spx=%2F2c691247873bf4e#%D0%A1%D0%A8%D0%90"
     }
   ],
   "update": {
     "version": "1.0.8",
     "build_number": 8,
     "download_url": "https://github.com/Dan1k-DS/MirrorVPN/releases/download/v1.0.8/MirrorVPN-1.0.8.apk",
-    "release_notes": "Обновление серверов: 22.07.2026 17:26",
+    "release_notes": "Обновление серверов: 22.07.2026 18:03",
     "required": false
   },
   "update_windows": {
