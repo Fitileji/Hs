@@ -1,6 +1,22 @@
 {
   "configs": [
     {
+      "name": "🇺🇸 США",
+      "url": "vless://14be5dca-9d9a-4179-bc31-56310f40b180@213.165.50.255:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.Uj8-CfEj1BX7LjCFIMAzN_dC86wX5ZPY0s5gHlolPh4&serviceName=&authority=&security=reality&pbk=3aKvg_keVOrrp7mhisV21tdRYq0uk7thZzCkCPpp7yQ&fp=chrome&sni=xn--d1acpjx3f.xn--p1ai&sid=17e2aaf0dfa6&spx=%2F6d4f77de7601c77"
+    },
+    {
+      "name": "🇺🇸 США 2",
+      "url": "vless://e5983daa-f795-4837-b601-5bec41ea1d41@77.110.125.14:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.oobqfglJbobcDWp4tXbYry6Ym2klSi845BkMdql3uFY&security=reality&sni=ymail.com&fp=chrome&pbk=AK-J4tMQ2zEzpUoRYfHpj4200MotYOQo7tdNNMzJ1RU&sid=3fc04ed4665463ed&spx=%2F2c691247873bf4e#%D0%A1%D0%A8%D0%90"
+    },
+    {
+      "name": "🇳🇱 Нидерланды",
+      "url": "vless://6db7dd2f-97a2-4d39-8eba-264a06777638@109.120.150.36:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.Oo_b4E-UnMeWYBM9AB9XqHfrmTm9pqBmjpUvMX_WaQU&serviceName=&authority=&security=reality&pbk=tjva2dKuBMfYyZA26awZVp9uYmJBhsH5MxuEqqggAD8&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=10e7653da2b8&spx=%2F152347b8ca18021#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
+    },
+    {
+      "name": "🇫🇷 Франция",
+      "url": "vless://3c12460f-ba94-4505-be72-43bce74924c6@89.208.113.45:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.VwZSwT8K2aVpJiwov3Gluu94LG6421gH5tsB8-v8nQ8&serviceName=&authority=&security=reality&pbk=_y_jSOh7GnRHBIn9dSFa-KBzbA1CV2xrC2qg1i-ebG8&fp=chrome&sni=xn--d1acpjx3f.xn--p1ai&sid=a2002f&spx=%2F9f4cb2549c9b488"
+    },
+    {
       "name": "🇬🇧 Великобритания",
       "url": "vless://89370ae9-8032-45b2-b585-7ebf0e0eec44@31.76.39.70:445?type=tcp&security=reality&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания-1"
     },
@@ -67,6 +83,38 @@
     {
       "name": "🇷🇺 Россия 8",
       "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:2087?type=grpc&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-8"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 2",
+      "url": "vless://19ca7bb8-98b9-47a7-a3f5-19b5a8385b01@144.124.252.238:2087?type=grpc&security=reality&pbk=FcBcG7-7WeubeWsKUrZVtOVwsZNufh5z2Sh47GhssTs&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Нидерланды-1"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 3",
+      "url": "vless://ee525093-1f5d-4a73-acab-229206b2fc91@94.26.228.201:446?type=tcp&security=reality&pbk=s-5z3Mbrz0YFAwUrZ4HxFPXiEpYL2FGxWqdIzdsU934&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Нидерланды-2"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 4",
+      "url": "vless://3571c88a-4a2f-4a4b-9950-74ca803c3bbe@89.124.89.129:2087?type=grpc&security=reality&pbk=1gGoLVXJDFC6viMcQR3scaNhlPd4b5SZQUfyrrnY8io&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Нидерланды-3"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 5",
+      "url": "vless://13f99f21-e48b-4b3d-9bee-91c6f426ea16@5.182.4.144:446?type=tcp&security=reality&pbk=ASe9wkK_7F2v9mo-AHqAbrfpLDHNV4QDbp1EO6g3jVQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Нидерланды-4"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 6",
+      "url": "vless://cb901726-9f27-4220-89cd-d690ba550bdc@144.124.231.42:2087?type=grpc&security=reality&pbk=WHV6uxx5IWSPAwrxJLUqFSrkfGSjl75A0FtAo7cZwgc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Нидерланды-5"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 7",
+      "url": "vless://9ca6a7e1-ae12-4ceb-9924-2e77467509ee@178.130.131.62:446?type=tcp&security=reality&pbk=TBSxUY80b781ud7T6Eka0hLpGfG-hMC7TiWSej4D8UM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Нидерланды-6"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 8",
+      "url": "vless://f8dfe0ec-62ac-470b-b9bf-d1e957ab0b44@144.31.30.15:2087?type=grpc&security=reality&pbk=8t8VZi8uw6yBRd7AS8xtr0Eh5LizXfW2a5dlFhioRFY&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Нидерланды-7"
+    },
+    {
+      "name": "🇳🇱 Нидерланды 9",
+      "url": "vless://b092e51d-78eb-44ae-983e-2a50b20ff72b@84.38.186.105:447?type=tcp&security=reality&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Нидерланды-8"
     },
     {
       "name": "🇩🇪 Германия",
@@ -181,46 +229,6 @@
       "url": "vless://7952a2e6-b09f-42e8-b3dc-60fbb9c4cd84@31.184.218.96:446?type=tcp&security=reality&pbk=Z4AxqPHX2UuAq3SXHbKQZlREqFSfl7ptdFn2P41dhmQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-10"
     },
     {
-      "name": "🇫🇷 Франция",
-      "url": "vless://3bacda04-1f92-4860-a276-d8afbcc47c1e@51.210.203.59:2087?type=grpc&security=reality&pbk=ZbXTHURhrIgVTMDcw20gB1MB_swQ4GRMtcMuAex3xHg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Франция-1"
-    },
-    {
-      "name": "🇫🇷 Франция 2",
-      "url": "vless://d1c05b7f-f168-42f2-bcde-b3be011acc41@195.2.73.38:447?type=tcp&security=reality&pbk=NW6BVm5k439n0fsWdoYaEzlr3XQuYTgdDhNLmXOquQU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Франция-2"
-    },
-    {
-      "name": "🇫🇷 Франция 3",
-      "url": "vless://3bacda04-1f92-4860-a276-d8afbcc47c1e@51.210.203.59:2087?type=grpc&security=reality&pbk=ZbXTHURhrIgVTMDcw20gB1MB_swQ4GRMtcMuAex3xHg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Франция-3"
-    },
-    {
-      "name": "🇫🇷 Франция 4",
-      "url": "vless://1e7a0038-df6e-4aad-bc0f-147a6dc9498d@80.249.131.236:447?type=tcp&security=reality&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Франция-4"
-    },
-    {
-      "name": "🇫🇷 Франция 5",
-      "url": "vless://3bacda04-1f92-4860-a276-d8afbcc47c1e@51.210.203.59:2087?type=grpc&security=reality&pbk=ZbXTHURhrIgVTMDcw20gB1MB_swQ4GRMtcMuAex3xHg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Франция-5"
-    },
-    {
-      "name": "🇫🇷 Франция 6",
-      "url": "vless://b2cb2294-b45d-4a39-9e0b-b0aef49f49fc@138.16.161.83:444?type=tcp&security=reality&pbk=3IjAdI6f7lZxvbF4bPCTSTJWo9nDy3T9s4XKiFoRnGg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Франция-6"
-    },
-    {
-      "name": "🇫🇷 Франция 7",
-      "url": "vless://95390c54-464f-4c78-b75f-e07b10a03ea7@51.38.25.140:2087?type=grpc&security=reality&pbk=EyTR-pjctzesho1TQIAjrsEVrmTCsfaXWYxY04E_kAk&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Франция-7"
-    },
-    {
-      "name": "🇫🇷 Франция 8",
-      "url": "vless://b092e51d-78eb-44ae-983e-2a50b20ff72b@84.38.186.105:446?type=tcp&security=reality&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Франция-8"
-    },
-    {
-      "name": "🇫🇷 Франция 9",
-      "url": "vless://95390c54-464f-4c78-b75f-e07b10a03ea7@51.38.25.140:2087?type=grpc&security=reality&pbk=EyTR-pjctzesho1TQIAjrsEVrmTCsfaXWYxY04E_kAk&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Франция-9"
-    },
-    {
-      "name": "🇫🇷 Франция 10",
-      "url": "vless://9ca6a7e1-ae12-4ceb-9924-2e77467509ee@178.130.131.62:444?type=tcp&security=reality&pbk=TBSxUY80b781ud7T6Eka0hLpGfG-hMC7TiWSej4D8UM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Франция-10"
-    },
-    {
       "name": "🇯🇵 Япония",
       "url": "vless://9ab6a960-b375-4524-bbb0-5ae733dc9a5b@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Япония-1"
     },
@@ -291,21 +299,13 @@
     {
       "name": "🇫🇮 Финляндия 10",
       "url": "vless://01315e24-13c7-42c1-bb42-226f3aded512@138.16.184.72:444?type=tcp&security=reality&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-10"
-    },
-    {
-      "name": "🇺🇸 США",
-      "url": "vless://e5983daa-f795-4837-b601-5bec41ea1d41@77.110.125.14:443?type=tcp&encryption=mlkem768x25519plus.native.0rtt.oobqfglJbobcDWp4tXbYry6Ym2klSi845BkMdql3uFY&security=reality&sni=ymail.com&fp=chrome&pbk=AK-J4tMQ2zEzpUoRYfHpj4200MotYOQo7tdNNMzJ1RU&sid=3fc04ed4665463ed&spx=%2F2c691247873bf4e#%D0%A1%D0%A8%D0%90"
-    },
-    {
-      "name": "🇳🇱 Нидерланды",
-      "url": "vless://6db7dd2f-97a2-4d39-8eba-264a06777638@109.120.150.36:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.Oo_b4E-UnMeWYBM9AB9XqHfrmTm9pqBmjpUvMX_WaQU&serviceName=&authority=&security=reality&pbk=tjva2dKuBMfYyZA26awZVp9uYmJBhsH5MxuEqqggAD8&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=10e7653da2b8&spx=%2F152347b8ca18021#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B"
     }
   ],
   "update": {
     "version": "2.0.0",
     "build_number": 10,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.0.apk",
-    "release_notes": "Обновление серверов: 22.07.2026 22:17",
+    "release_notes": "Обновление серверов: 28.07.2026 21:08",
     "required": false
   },
   "update_windows": {
