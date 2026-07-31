@@ -17,6 +17,10 @@
       "url": "vless://3c12460f-ba94-4505-be72-43bce74924c6@89.208.113.45:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.VwZSwT8K2aVpJiwov3Gluu94LG6421gH5tsB8-v8nQ8&serviceName=&authority=&security=reality&pbk=_y_jSOh7GnRHBIn9dSFa-KBzbA1CV2xrC2qg1i-ebG8&fp=chrome&sni=xn--d1acpjx3f.xn--p1ai&sid=a2002f&spx=%2F9f4cb2549c9b488"
     },
     {
+      "name": "🇰🇿 Казахстан",
+      "url": "vless://b85ea89e-582d-4c2e-8bab-aec3442ccae6@5.180.27.152:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.MMVMLzURju0XLVNQAOaQd803Y_yEQG6G495zf6e22mc&serviceName=&authority=&security=reality&pbk=MZWPs9EiRtBZ7Xk6cA-iFDfmX11hxkSmN8EiEY3Ppgs&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=519dc9ee&spx=%2F2981f4a220abcee"
+    },
+    {
       "name": "🇬🇧 Великобритания",
       "url": "vless://89370ae9-8032-45b2-b585-7ebf0e0eec44@31.76.39.70:445?type=tcp&security=reality&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания-1"
     },
@@ -273,13 +277,13 @@
     "version": "2.0.0",
     "build_number": 10,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.0.apk",
-    "release_notes": "Обновление серверов: 28.07.2026 21:10",
+    "release_notes": "Обновление серверов: 31.07.2026 17:37",
     "required": false
   },
   "update_windows": {
-    "version": "2.0.0",
-    "build_number": 10,
-    "download_url": "https://mirror-oficiall.ru/MirrorVPN_Setup_v2.0.0.exe",
+    "version": "2.0.1",
+    "build_number": 11,
+    "download_url": "https://mirror-oficiall.ru/MirrorVPN_Setup_v2.0.1.exe",
     "release_notes": "Стабильная версия для PC",
     "required": false
   }
