@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇩🇪 Германия",
+      "url": "vless://3b91b380-1d98-459c-8934-715e2fe3665e@93.152.217.4:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.QteTVu0VnRafEYmdZrrrpBdfprgook7-ovB7u3uMW3I&serviceName=&authority=&security=reality&pbk=qD3irz3KxQFt_IaXXaElkRObUDW64xy5gLFPOjNVaCY&fp=chrome&sni=xn--d1acpjx3f.xn--p1ai&sid=8bbb420609166d&spx=%2F12142f60db23c02#%F0%9F%87%A9%F0%9F%87%AA%20%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+    },
+    {
       "name": "🇺🇸 США",
       "url": "vless://14be5dca-9d9a-4179-bc31-56310f40b180@213.165.50.255:443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.Uj8-CfEj1BX7LjCFIMAzN_dC86wX5ZPY0s5gHlolPh4&serviceName=&authority=&security=reality&pbk=3aKvg_keVOrrp7mhisV21tdRYq0uk7thZzCkCPpp7yQ&fp=chrome&sni=xn--d1acpjx3f.xn--p1ai&sid=17e2aaf0dfa6&spx=%2F6d4f77de7601c77"
     },
@@ -87,46 +91,6 @@
     {
       "name": "🇷🇺 Россия 8",
       "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:2087?type=grpc&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-8"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://36ef959d-6be4-4820-8c1f-4a0643bef197@64.188.67.151:2087?type=grpc&security=reality&pbk=lHi9gVDYNxG-8wYvv4ccwr-NMzvzuM2C1eC8R3LJC1A&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Германия-1"
-    },
-    {
-      "name": "🇩🇪 Германия 2",
-      "url": "vless://01315e24-13c7-42c1-bb42-226f3aded512@138.16.184.72:447?type=tcp&security=reality&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Германия-2"
-    },
-    {
-      "name": "🇩🇪 Германия 3",
-      "url": "vless://8edb55ed-2eef-4ef6-9983-2da0bf045414@94.156.102.238:2087?type=grpc&security=reality&pbk=vlrUWboJYBeHNQaYABQRjBZKe9woK297tabMABbzgmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Германия-3"
-    },
-    {
-      "name": "🇩🇪 Германия 4",
-      "url": "vless://ee525093-1f5d-4a73-acab-229206b2fc91@94.26.228.201:447?type=tcp&security=reality&pbk=s-5z3Mbrz0YFAwUrZ4HxFPXiEpYL2FGxWqdIzdsU934&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Германия-4"
-    },
-    {
-      "name": "🇩🇪 Германия 5",
-      "url": "vless://5c96d863-1190-4b35-89d4-9715c9425065@77.239.125.137:2087?type=grpc&security=reality&pbk=okffMvl6gnaEIdYcncaXBsE2bDomE6eJGxbtL453pVk&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Германия-5"
-    },
-    {
-      "name": "🇩🇪 Германия 6",
-      "url": "vless://7952a2e6-b09f-42e8-b3dc-60fbb9c4cd84@31.184.218.96:447?type=tcp&security=reality&pbk=Z4AxqPHX2UuAq3SXHbKQZlREqFSfl7ptdFn2P41dhmQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Германия-6"
-    },
-    {
-      "name": "🇩🇪 Германия 7",
-      "url": "vless://8edb55ed-2eef-4ef6-9983-2da0bf045414@94.156.102.238:2087?type=grpc&security=reality&pbk=vlrUWboJYBeHNQaYABQRjBZKe9woK297tabMABbzgmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Германия-7"
-    },
-    {
-      "name": "🇩🇪 Германия 8",
-      "url": "vless://9ca6a7e1-ae12-4ceb-9924-2e77467509ee@178.130.131.62:447?type=tcp&security=reality&pbk=TBSxUY80b781ud7T6Eka0hLpGfG-hMC7TiWSej4D8UM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Германия-8"
-    },
-    {
-      "name": "🇩🇪 Германия 9",
-      "url": "vless://043b62d2-79a2-43da-9507-56e7f8c96c0e@64.188.67.66:2087?type=grpc&security=reality&pbk=L93hfVWxIueZjl_VKeRQef9OnIFZeRDV3qPK4f_yAn8&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Германия-9"
-    },
-    {
-      "name": "🇩🇪 Германия 10",
-      "url": "vless://13f99f21-e48b-4b3d-9bee-91c6f426ea16@5.182.4.144:444?type=tcp&security=reality&pbk=ASe9wkK_7F2v9mo-AHqAbrfpLDHNV4QDbp1EO6g3jVQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Германия-10"
     },
     {
       "name": "🇮🇹 Италия",
@@ -277,7 +241,7 @@
     "version": "2.0.0",
     "build_number": 10,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.0.apk",
-    "release_notes": "Обновление серверов: 31.07.2026 17:37",
+    "release_notes": "Обновление серверов: 31.07.2026 18:25",
     "required": false
   },
   "update_windows": {
