@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇪🇪 Эстония",
+      "url": "vless://ffe53f4c-b78a-4581-aa72-d70ee53beb14@45.86.60.150:443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.OF4KeHDsCDr2lhuWLLZX74EOlUJxaP8U97PObmgqlR4&path=%2Fsecret-path-x99&host=yandex.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=aTK4hab4V3RVCLZZBrWa2qrKSu1XYojWG_p1RaGl9EU&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=ba46&spx=%2F6e519077a07665f#%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F"
+    },
+    {
       "name": "🇺🇸 США",
       "url": "vless://54620831-0845-4570-b475-7fed2602ae07@77.110.114.129:19479?encryption=mlkem768x25519plus.native.0rtt.Rh4540RFYnCpt96YC7NH7GqWVnYDFvRefMHIpraIVz4&security=reality&sni=xn--d1acpjx3f.xn--p1ai&fp=firefox&pbk=NE1TtzrKRt-3MR8FRg1eXGgCJMhs1oX7un7faO1YGHk&sid=a4f7dbc18d19&spx=%2Fb5bf3788ea04261&type=xhttp&mode=auto&host=yandex.ru&path=%2Fsecret-path-x99&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%D0%A1%D0%A8%D0%90"
     },
@@ -11,10 +15,6 @@
     {
       "name": "🇫🇷 Франция",
       "url": "vless://8f59ac55-7cd0-45fb-bc7f-2abd780cc89c@89.208.113.45:80?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.oOlpU1mrgN0x-P1timY6q2ZPgsEkR5_yDFUtWX7X-Hg&path=%2Fsecret-path-x99&host=yandex.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=L0pG0-VfBp1drd7_yJfiHd6BYM2MBruu1xYEx2Rdl08&fp=safari&sni=xn--d1acpjx3f.xn--p1ai&sid=06aff7ba&spx=%2F75f673c4271a7cf"
-    },
-    {
-      "name": "🇪🇪 Эстония",
-      "url": "vless://ffe53f4c-b78a-4581-aa72-d70ee53beb14@45.86.60.150:443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.OF4KeHDsCDr2lhuWLLZX74EOlUJxaP8U97PObmgqlR4&path=%2Fsecret-path-x99&host=yandex.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=aTK4hab4V3RVCLZZBrWa2qrKSu1XYojWG_p1RaGl9EU&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=ba46&spx=%2F6e519077a07665f#%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F"
     },
     {
       "name": "🇰🇿 Казахстан",
@@ -237,7 +237,7 @@
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 13.08.2026 17:21",
+    "release_notes": "Обновление серверов: 21.08.2026 15:02",
     "required": false
   },
   "update_windows": {
