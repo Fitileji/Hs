@@ -6,7 +6,7 @@
     },
     {
       "name": "🇷🇺 Россия 2",
-      "url": "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%232"
+      "url": "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%231"
     },
     {
       "name": "🇷🇺 Россия 3",
@@ -30,26 +30,6 @@
     },
     {
       "name": "🇩🇪 Германия 2",
-      "url": "vless://78eda81a-f806-4ceb-8534-dfe6f5ecef36@91.240.86.186:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&security=reality&sid=7bb730e3e6616d31&sni=yandex.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2320"
-    },
-    {
-      "name": "🇩🇪 Германия 3",
-      "url": "vless://78eda81a-f806-4ceb-8534-dfe6f5ecef36@185.229.9.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lIgF8B3ICGAQ6ExbRe9YDu8ZD1Ozzqu7-YO7hfuXfRw&security=reality&sid=cc8069f6c2cbcb32&sni=api.ok.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2317"
-    },
-    {
-      "name": "🇩🇪 Германия 4",
-      "url": "vless://78eda81a-f806-4ceb-8534-dfe6f5ecef36@185.241.195.146:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2325"
-    },
-    {
-      "name": "🇩🇪 Германия 5",
-      "url": "vless://78eda81a-f806-4ceb-8534-dfe6f5ecef36@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2QoNARj5aaa5-kUEiwx38KzbbiENQZ95V7x9jFo6f2A&security=reality&sid=88a84e3390fcf4a7&sni=max.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2326"
-    },
-    {
-      "name": "🇩🇪 Германия 6",
-      "url": "vless://78eda81a-f806-4ceb-8534-dfe6f5ecef36@185.229.9.236:43005?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP_mtYuA3fZq8C6WatAA4TmDv0_Wigq9xYcmb5UsTRA&security=reality&sid=93653ee07ff5124c&sni=max.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2316"
-    },
-    {
-      "name": "🇩🇪 Германия 7",
       "url": "vless://5ba7b2fe-8738-4dd9-b2f4-c3450b6f32fe@188.225.45.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=on.mcufa.pro&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2314"
     },
     {
@@ -67,17 +47,13 @@
     {
       "name": "🇪🇪 Эстония",
       "url": "vless://d4719d52-c3fc-4651-98e1-535dbd77dbcf@84.201.158.136:443?encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=cdn2.24lider.ru&type=raw#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%2359"
-    },
-    {
-      "name": "🇸🇪 Швеция",
-      "url": "vless://2da17929-a7a7-4db2-8d6f-aefb6042ccf7@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%2371"
     }
   ],
   "update": {
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 10.09.2026 13:16",
+    "release_notes": "Обновление серверов: 10.09.2026 13:42",
     "required": false
   },
   "update_windows": {
