@@ -1,231 +1,59 @@
 {
   "configs": [
     {
-      "name": "🇪🇪 Эстония",
-      "url": "vless://ffe53f4c-b78a-4581-aa72-d70ee53beb14@45.86.60.150:443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.OF4KeHDsCDr2lhuWLLZX74EOlUJxaP8U97PObmgqlR4&path=%2Fsecret-path-x99&host=yandex.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=aTK4hab4V3RVCLZZBrWa2qrKSu1XYojWG_p1RaGl9EU&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=ba46&spx=%2F6e519077a07665f#%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇸🇪 Швеция",
-      "url": "vless://3fbf8468-7360-4fa4-acdb-ffb7d279b247@136.148.217.119:25161?type=xhttp&security=reality&path=%2Fpath-security99&host=yandex.ru&mode=auto&sni=www.icloud.com&fp=firefox&pbk=jZQ1JaleJzKnaAxa8xx7fXbO1F-ZBEreUDEp85nJeGg&sid=04dd9a32da9e628b&spx=%2F&encryption=none#Test%20%C2%B7%20custom-vless-25161"
-    },
-    {
-      "name": "🇰🇿 Казахстан",
-      "url": "vless://0233620f-a794-4fd9-b77b-1ede7d8d4220@5.180.21.12:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.b-f-1pH0v5f0W0cooGPY_38sdhJT5sPW3ACw9gMFTy4&path=%2F&host=vk.com&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=CGHxGfOQHUsi3UvAF8PcvWuOaPKETkcrq1mE3VjdwA4&fp=firefox&sni=vk.ru&sid=bb44b8&spx=%2F52ceaa0593f29f7#%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD"
-    },
-    {
-      "name": "🇬🇧 Великобритания 2",
-      "url": "vless://89370ae9-8032-45b2-b585-7ebf0e0eec44@31.76.39.70:2087?type=grpc&security=reality&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Великобритания-2"
-    },
-    {
-      "name": "🇬🇧 Великобритания 3",
-      "url": "vless://89370ae9-8032-45b2-b585-7ebf0e0eec44@31.76.39.70:8443?type=xhttp&security=reality&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&path=%2Fa7f9d2c8&mode=stream-one#Великобритания-3"
-    },
-    {
-      "name": "🇬🇧 Великобритания 4",
-      "url": "vless://a1b7003a-da19-4057-9de2-99de90f5dc39@31.76.39.75:445?type=tcp&security=reality&pbk=_4k2jdTYVWtRsBWiTlsn-rUiiIxfMIPDYZF75p6YcUg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания-4"
-    },
-    {
-      "name": "🇬🇧 Великобритания 5",
-      "url": "vless://a1b7003a-da19-4057-9de2-99de90f5dc39@31.76.39.75:2087?type=grpc&security=reality&pbk=_4k2jdTYVWtRsBWiTlsn-rUiiIxfMIPDYZF75p6YcUg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Великобритания-5"
-    },
-    {
-      "name": "🇬🇧 Великобритания 6",
-      "url": "vless://a1b7003a-da19-4057-9de2-99de90f5dc39@31.76.39.75:8443?type=xhttp&security=reality&pbk=_4k2jdTYVWtRsBWiTlsn-rUiiIxfMIPDYZF75p6YcUg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&path=%2Fa7f9d2c8&mode=stream-one#Великобритания-6"
-    },
-    {
-      "name": "🇬🇧 Великобритания 7",
-      "url": "vless://9fb3ec5c-35bb-4731-9309-74dbef3ca911@31.76.39.69:445?type=tcp&security=reality&pbk=O-Lc3jIogKz_M207qsXC0eWk1Q7JPHnzGaBbSqihqyc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания-7"
-    },
-    {
-      "name": "🇬🇧 Великобритания 8",
-      "url": "vless://9fb3ec5c-35bb-4731-9309-74dbef3ca911@31.76.39.69:2087?type=grpc&security=reality&pbk=O-Lc3jIogKz_M207qsXC0eWk1Q7JPHnzGaBbSqihqyc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Великобритания-8"
-    },
-    {
-      "name": "🇬🇧 Великобритания 9",
-      "url": "vless://9fb3ec5c-35bb-4731-9309-74dbef3ca911@31.76.39.69:8443?type=xhttp&security=reality&pbk=O-Lc3jIogKz_M207qsXC0eWk1Q7JPHnzGaBbSqihqyc&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&path=%2Fa7f9d2c8&mode=stream-one#Великобритания-9"
-    },
-    {
-      "name": "🇷🇺 Россия",
-      "url": "vless://d1c05b7f-f168-42f2-bcde-b3be011acc41@195.2.73.38:445?type=tcp&security=reality&pbk=NW6BVm5k439n0fsWdoYaEzlr3XQuYTgdDhNLmXOquQU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Россия-1"
-    },
-    {
-      "name": "🇷🇺 Россия 2",
-      "url": "vless://d1c05b7f-f168-42f2-bcde-b3be011acc41@195.2.73.38:2087?type=grpc&security=reality&pbk=NW6BVm5k439n0fsWdoYaEzlr3XQuYTgdDhNLmXOquQU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-2"
-    },
-    {
-      "name": "🇷🇺 Россия 3",
-      "url": "vless://1e7a0038-df6e-4aad-bc0f-147a6dc9498d@80.249.131.236:445?type=tcp&security=reality&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Россия-3"
-    },
-    {
-      "name": "🇷🇺 Россия 4",
-      "url": "vless://1e7a0038-df6e-4aad-bc0f-147a6dc9498d@80.249.131.236:2087?type=grpc&security=reality&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-4"
-    },
-    {
-      "name": "🇷🇺 Россия 5",
-      "url": "vless://66ae9ddd-07ae-430f-b136-7c4ab792b794@5.182.4.136:445?type=tcp&security=reality&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Россия-5"
-    },
-    {
-      "name": "🇷🇺 Россия 6",
-      "url": "vless://66ae9ddd-07ae-430f-b136-7c4ab792b794@5.182.4.136:2087?type=grpc&security=reality&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-6"
-    },
-    {
-      "name": "🇷🇺 Россия 7",
-      "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:445?type=tcp&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Россия-7"
-    },
-    {
-      "name": "🇷🇺 Россия 8",
-      "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:2087?type=grpc&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Россия-8"
-    },
-    {
-      "name": "🇮🇹 Италия",
-      "url": "vless://c44f1afc-0ebd-4bf5-b0aa-0a24e15b23a6@31.76.113.177:2087?type=grpc&security=reality&pbk=wPjv3ee3T_yxkFYP4D_sXjgYFQVBp1fZQyF2IeXrVHU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Италия-1"
-    },
-    {
-      "name": "🇮🇹 Италия 2",
-      "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:446?type=tcp&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Италия-2"
-    },
-    {
-      "name": "🇮🇹 Италия 3",
-      "url": "vless://eb16c02e-9565-4842-93b9-afe68a2e3215@31.76.113.136:2087?type=grpc&security=reality&pbk=wXOV7-oBLNnuIy8smYrLLdK-NkN1j-NEf9MxePbAT2Y&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Италия-3"
-    },
-    {
-      "name": "🇮🇹 Италия 4",
-      "url": "vless://b092e51d-78eb-44ae-983e-2a50b20ff72b@84.38.186.105:444?type=tcp&security=reality&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Италия-4"
-    },
-    {
-      "name": "🇮🇹 Италия 5",
-      "url": "vless://a5adec6f-34e7-44d7-902e-100dfb8482cc@31.76.113.161:2087?type=grpc&security=reality&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Италия-5"
-    },
-    {
-      "name": "🇮🇹 Италия 6",
-      "url": "vless://13f99f21-e48b-4b3d-9bee-91c6f426ea16@5.182.4.144:447?type=tcp&security=reality&pbk=ASe9wkK_7F2v9mo-AHqAbrfpLDHNV4QDbp1EO6g3jVQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Италия-6"
-    },
-    {
-      "name": "🇮🇹 Италия 7",
-      "url": "vless://a328bbb1-aae5-4627-be9f-1b2eae864813@31.76.113.160:2087?type=grpc&security=reality&pbk=YPbKkg4p8zdxymjtC0qBiDkiMIlu0Iutu5zEbgR46So&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Италия-7"
-    },
-    {
-      "name": "🇮🇹 Италия 8",
-      "url": "vless://b2cb2294-b45d-4a39-9e0b-b0aef49f49fc@138.16.161.83:446?type=tcp&security=reality&pbk=3IjAdI6f7lZxvbF4bPCTSTJWo9nDy3T9s4XKiFoRnGg&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Италия-8"
-    },
-    {
       "name": "🇵🇱 Польша",
-      "url": "vless://903dc5d3-073b-43b0-850b-bb7294be7669@2.26.5.207:2087?type=grpc&security=reality&pbk=fgAGnqn2g6u4ZacmOsYR0yqA27FGZpKl7NvhD3rnRz0&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Польша-1"
+      "url": "vless://10ffd077-330a-4ab4-a111-462ebf579597@2.26.5.67:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=VFYBrtOOoR-XnEBUdJrlh1IVqkOWiLiqbNYoD6PxKRI&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
       "name": "🇵🇱 Польша 2",
-      "url": "vless://66ae9ddd-07ae-430f-b136-7c4ab792b794@5.182.4.136:446?type=tcp&security=reality&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-2"
+      "url": "vless://f1491063-8e0d-4620-91c9-47a9373b0ad3@147.45.126.252:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=fulFwqh-rCN217vlH1oB3pctB1MZPF-3IjMy9kICSAo&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
       "name": "🇵🇱 Польша 3",
-      "url": "vless://6836a258-5057-4991-bca2-1603ed66d339@2.26.5.214:2087?type=grpc&security=reality&pbk=KgmhLeciy4wh5-demdNkcV35hYvI_KcmP2DNVsWqcD8&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Польша-3"
+      "url": "vless://05dcee46-99dc-4076-b539-b3689d92867c@147.45.126.161:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=yUUKyreAMdaiva-Em4kwHW8Y5JmpVlRq-Ls_Aavg318&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
       "name": "🇵🇱 Польша 4",
-      "url": "vless://1e7a0038-df6e-4aad-bc0f-147a6dc9498d@80.249.131.236:444?type=tcp&security=reality&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-4"
+      "url": "vless://fbeabfc5-69c9-4ba9-8ec1-ab48a4c515e0@138.124.64.190:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=kbfsXEKsbtVKv0jNBMXgjfkpnuZcSLIqFmO1fNDOq0M&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
       "name": "🇵🇱 Польша 5",
-      "url": "vless://7ef57c24-7138-4a29-8a41-494d14eeabea@2.26.5.168:2087?type=grpc&security=reality&pbk=8pUN-PAnf8heTQepzV7AslEWwwePXGH4TV2tD44Xgy4&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Польша-5"
+      "url": "vless://cb53f03f-df0a-42ff-a653-3c888c5694ca@2.26.5.214:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=KgmhLeciy4wh5-demdNkcV35hYvI_KcmP2DNVsWqcD8&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
       "name": "🇵🇱 Польша 6",
-      "url": "vless://d1c05b7f-f168-42f2-bcde-b3be011acc41@195.2.73.38:444?type=tcp&security=reality&pbk=NW6BVm5k439n0fsWdoYaEzlr3XQuYTgdDhNLmXOquQU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-6"
+      "url": "vless://34208d42-503e-41f6-87d9-356f72a3089f@2.26.5.151:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=kqCqlxubsl4d8UCWI2kRRmO1qKX_NodCFwuYhEGKBi0&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
     {
-      "name": "🇵🇱 Польша 7",
-      "url": "vless://424e61c5-cb7c-4d9c-8357-4083c11606a3@185.138.90.13:2087?type=grpc&security=reality&pbk=jOnel9L88N7krUpmYjN8C_auiudhQNg2wVIroJNuQ1U&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Польша-7"
+      "name": "🇬🇧 Великобритания",
+      "url": "vless://e61d2970-b22c-409d-93b6-87b569823e7e@31.76.39.70:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     },
     {
-      "name": "🇵🇱 Польша 8",
-      "url": "vless://01315e24-13c7-42c1-bb42-226f3aded512@138.16.184.72:446?type=tcp&security=reality&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-8"
+      "name": "🇬🇧 Великобритания 2",
+      "url": "vless://8570c9a7-b1bc-41d5-ae93-b496caf50cf8@31.76.39.75:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=_4k2jdTYVWtRsBWiTlsn-rUiiIxfMIPDYZF75p6YcUg&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     },
     {
-      "name": "🇵🇱 Польша 9",
-      "url": "vless://a1aaad91-3448-47da-95ec-1a9b726bb54f@147.45.126.161:2087?type=grpc&security=reality&pbk=yUUKyreAMdaiva-Em4kwHW8Y5JmpVlRq-Ls_Aavg318&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Польша-9"
+      "name": "🇬🇧 Великобритания 3",
+      "url": "vless://43a415f3-d979-4473-a51c-10092c243639@31.76.39.235:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=7HiCkYd4_x_kZ_xTATGD6okIxLyWs7mWZmKrv5zNkg0&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     },
     {
-      "name": "🇵🇱 Польша 10",
-      "url": "vless://7952a2e6-b09f-42e8-b3dc-60fbb9c4cd84@31.184.218.96:446?type=tcp&security=reality&pbk=Z4AxqPHX2UuAq3SXHbKQZlREqFSfl7ptdFn2P41dhmQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша-10"
+      "name": "🇬🇧 Великобритания 4",
+      "url": "vless://a16d15eb-5d36-494f-b0cd-c24ed4affca5@31.76.39.236:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=NZXAeQhvvxKRqxUY2dZZp1qO47rbVONDk2975AqkC3Q&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     },
     {
-      "name": "🇯🇵 Япония",
-      "url": "vless://9ab6a960-b375-4524-bbb0-5ae733dc9a5b@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Япония-1"
+      "name": "🇬🇧 Великобритания 5",
+      "url": "vless://ac23811d-23dc-4e83-8a6b-1f72e244db46@31.76.39.237:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=TL_YAUV9_GXeojD2maI7T_X9nCzFG0NzOeOTvaH7BBI&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     },
     {
-      "name": "🇯🇵 Япония 2",
-      "url": "vless://1e7a0038-df6e-4aad-bc0f-147a6dc9498d@80.249.131.236:446?type=tcp&security=reality&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Япония-2"
-    },
-    {
-      "name": "🇯🇵 Япония 3",
-      "url": "vless://1aabf41e-a837-4a89-8759-db84cc54500b@31.76.91.46:2087?type=grpc&security=reality&pbk=Ej2YAZN4FLxzc_I6qtm2CCnUrPyNpA7FxOsuZL7gGFE&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Япония-3"
-    },
-    {
-      "name": "🇯🇵 Япония 4",
-      "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:444?type=tcp&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Япония-4"
-    },
-    {
-      "name": "🇯🇵 Япония 5",
-      "url": "vless://8948d963-284b-4bdc-8183-2be6d349335c@31.76.91.64:2087?type=grpc&security=reality&pbk=ab4E_D2sD0fxUb8BOZg1SxpeDm3P6D-3fk4va6WumWE&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Япония-5"
-    },
-    {
-      "name": "🇯🇵 Япония 6",
-      "url": "vless://66ae9ddd-07ae-430f-b136-7c4ab792b794@5.182.4.136:447?type=tcp&security=reality&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Япония-6"
-    },
-    {
-      "name": "🇯🇵 Япония 7",
-      "url": "vless://9ab6a960-b375-4524-bbb0-5ae733dc9a5b@31.76.91.72:2087?type=grpc&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Япония-7"
-    },
-    {
-      "name": "🇯🇵 Япония 8",
-      "url": "vless://7952a2e6-b09f-42e8-b3dc-60fbb9c4cd84@31.184.218.96:444?type=tcp&security=reality&pbk=Z4AxqPHX2UuAq3SXHbKQZlREqFSfl7ptdFn2P41dhmQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Япония-8"
-    },
-    {
-      "name": "🇫🇮 Финляндия",
-      "url": "vless://fb94ec0c-66c1-4760-a93f-c3f66e876545@2.26.0.193:2087?type=grpc&security=reality&pbk=xcLxa_NiETSnKvk_0L4jrjbSHcgGtypnXGs_m-CBMlw&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Финляндия-1"
-    },
-    {
-      "name": "🇫🇮 Финляндия 2",
-      "url": "vless://66ae9ddd-07ae-430f-b136-7c4ab792b794@5.182.4.136:444?type=tcp&security=reality&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-2"
-    },
-    {
-      "name": "🇫🇮 Финляндия 3",
-      "url": "vless://4f56d683-4ed4-45f0-83e3-078438607da3@31.76.77.31:2087?type=grpc&security=reality&pbk=ybKNAcvcgSY47nETC4WX6qLz3CdA5YgJkva_QSJDukA&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Финляндия-3"
-    },
-    {
-      "name": "🇫🇮 Финляндия 4",
-      "url": "vless://d1c05b7f-f168-42f2-bcde-b3be011acc41@195.2.73.38:446?type=tcp&security=reality&pbk=NW6BVm5k439n0fsWdoYaEzlr3XQuYTgdDhNLmXOquQU&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-4"
-    },
-    {
-      "name": "🇫🇮 Финляндия 5",
-      "url": "vless://ebcab6b4-d219-45d9-8379-8318f786b9fe@31.76.77.29:2087?type=grpc&security=reality&pbk=j-TSAo-H1f2W8ECWAuMbdt2YaDwPIpKbXLKD1Cs9zX8&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Финляндия-5"
-    },
-    {
-      "name": "🇫🇮 Финляндия 6",
-      "url": "vless://7c8dbba3-c2d7-4196-b840-91276919adf8@89.248.192.154:447?type=tcp&security=reality&pbk=Z_w0BaozJxCa5C9QDyAvpJq3nNBX_EebPXKVA_zUkjQ&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-6"
-    },
-    {
-      "name": "🇫🇮 Финляндия 7",
-      "url": "vless://88bb6b96-85ac-4e81-a43b-a815af3a048c@2.26.0.192:2087?type=grpc&security=reality&pbk=9CKcI8b7ifIach9MV_tFI1vszXJFAFsY1mBRbraOT14&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Финляндия-7"
-    },
-    {
-      "name": "🇫🇮 Финляндия 8",
-      "url": "vless://ee525093-1f5d-4a73-acab-229206b2fc91@94.26.228.201:444?type=tcp&security=reality&pbk=s-5z3Mbrz0YFAwUrZ4HxFPXiEpYL2FGxWqdIzdsU934&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-8"
-    },
-    {
-      "name": "🇫🇮 Финляндия 9",
-      "url": "vless://e0c39662-7dda-4a31-ac04-ab84c79f4026@2.26.100.192:2087?type=grpc&security=reality&pbk=Ku60WZ3HEdE07DoEBJ5I9o_fjcN_bhdK8bTW3RJjBmM&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&serviceName=grpc#Финляндия-9"
-    },
-    {
-      "name": "🇫🇮 Финляндия 10",
-      "url": "vless://01315e24-13c7-42c1-bb42-226f3aded512@138.16.184.72:444?type=tcp&security=reality&pbk=DZQE8nDxD9hcmMSNEIaFC1_VIB1_SslMgEB-3jyIZHs&fp=firefox&sni=ads.x5.ru&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Финляндия-10"
+      "name": "🇬🇧 Великобритания 6",
+      "url": "vless://69263838-ccde-4d58-bc56-d2a0fa92743b@31.76.39.69:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=O-Lc3jIogKz_M207qsXC0eWk1Q7JPHnzGaBbSqihqyc&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Великобритания"
     }
   ],
   "update": {
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 07.09.2026 14:38",
+    "release_notes": "Обновление серверов: 10.09.2026 20:15",
     "required": false
   },
   "update_windows": {
