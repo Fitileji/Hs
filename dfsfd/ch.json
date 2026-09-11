@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇸🇪 Швеция",
+      "url": "vless://6adba3fb-18e0-49d3-92c5-aa0300c7a86a@147.45.74.67:80?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.gyoG-zoaz_c-72DVRf1lLEjEKbD5wTifmMuTiz3RCFc&path=%2F&host=vk.com&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22sessionIDPlacement%22%3A%22path%22%2C%22sessionPlacement%22%3A%22path%22%7D&security=reality&pbk=eIDUaNrfwMkGQRgs_nkmSNA4xJIIDNLUD5jLGYxeyhQ&fp=firefox&sni=vk.ru&sid=a6a2a8f0&spx=%2Ff02e20edb5657db"
+    },
+    {
       "name": "🇵🇱 Польша",
       "url": "vless://10ffd077-330a-4ab4-a111-462ebf579597@2.26.5.67:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=VFYBrtOOoR-XnEBUdJrlh1IVqkOWiLiqbNYoD6PxKRI&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Польша"
     },
@@ -95,17 +99,13 @@
     {
       "name": "🇦🇱 Албания 4",
       "url": "vless://fda2f72d-92d2-41e1-b09a-8b6e1c9f99dc@85.155.228.55:445?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=2gV1M5tFwi8JVg2Se0OZokBTnHpJ5ruGIemYfoQuhHo&sid=c226283c4de5b1ad&flow=xtls-rprx-vision#Албания"
-    },
-    {
-      "name": "🇸🇪 Швеция",
-      "url": "vless://6adba3fb-18e0-49d3-92c5-aa0300c7a86a@147.45.74.67:80?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.gyoG-zoaz_c-72DVRf1lLEjEKbD5wTifmMuTiz3RCFc&path=%2F&host=vk.com&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22sessionIDPlacement%22%3A%22path%22%2C%22sessionPlacement%22%3A%22path%22%7D&security=reality&pbk=eIDUaNrfwMkGQRgs_nkmSNA4xJIIDNLUD5jLGYxeyhQ&fp=firefox&sni=vk.ru&sid=a6a2a8f0&spx=%2Ff02e20edb5657db"
     }
   ],
   "update": {
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 11.09.2026 07:01",
+    "release_notes": "Обновление серверов: 11.09.2026 07:02",
     "required": false
   },
   "update_windows": {
