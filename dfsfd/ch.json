@@ -1,6 +1,10 @@
 {
   "configs": [
     {
+      "name": "🇺🇸 США",
+      "url": "vless://5ace5824-65e4-462f-bee8-5c41108f7bd1@2.56.122.187:9345?encryption=mlkem768x25519plus.native.0rtt.aDFqFashbnqU2dyR5RZNKqw5KV9jGn7vWWT01Q2RY0I&security=reality&sni=x5.ru&fp=firefox&pbk=Nzv66--PvQ8ix9ZCPLYk346ZoFjAK1A1IeXqUodoBRI&sid=bf222597&spx=%2Fae7f4fe29c0b96e&type=xhttp&mode=auto&host=ads.x5.ru&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%D0%A1%D0%A8%D0%90"
+    },
+    {
       "name": "🇦🇹 Австрия",
       "url": "vless://2f4d11bf-5143-4b81-8aab-d96f92e99670@193.233.201.109:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.-HYhG7sWzdJj9oAsff1a9HrW9IV_siabZUmI9ttQIX0&path=%2F&host=ads.x5.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=b1t6qmb4RHuRgIF3s5sgzMYL3y9zLleSMh66Hy473Cw&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=7a3200&spx=%2F45e3ccb2ec16cc9#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F"
     },
@@ -10,7 +14,7 @@
     },
     {
       "name": "🇫🇷 Франция",
-      "url": "vless://d84322f4-063f-435e-88eb-7f0f7a79a2ee@194.124.251.177:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.uj3RLge9Bfb0VLGG5FzHV_XymirzQ_eJLiHDg67Mwxw&path=%2F&host=ads.x5.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=5nsWWKA1KPMnGF-XviUVZh7bpFVZRoVp5KeLdGZwwng&fp=firefox&sni=x5.ru&sid=dee38141&spx=%2F167c45b2d4fc77f"
+      "url": "vless://d888b25a-47ee-4dcb-a5bd-aa6b67ec8520@81.19.137.218:8443?encryption=mlkem768x25519plus.native.0rtt.yycaTVUbsS4w9TGWHTxNUbr88q_xSCS50Amf6hhAMV4&security=reality&sni=x5.ru&fp=chrome&pbk=cJ09ECX2_JzBZsDLjA7-0rwA4zeluyJcsUHyqYss72g&sid=12&spx=%2F8a77c55fa1a1928&type=xhttp&mode=auto&host=ads.x5.ru&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
     },
     {
       "name": "🇩🇪 Германия",
@@ -33,7 +37,7 @@
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 22.09.2026 17:33",
+    "release_notes": "Обновление серверов: 22.09.2026 18:56",
     "required": false
   },
   "update_windows": {
