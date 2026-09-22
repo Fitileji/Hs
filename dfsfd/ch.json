@@ -11,13 +11,29 @@
     {
       "name": "🇫🇷 Франция",
       "url": "vless://d84322f4-063f-435e-88eb-7f0f7a79a2ee@194.124.251.177:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.uj3RLge9Bfb0VLGG5FzHV_XymirzQ_eJLiHDg67Mwxw&path=%2F&host=ads.x5.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=5nsWWKA1KPMnGF-XviUVZh7bpFVZRoVp5KeLdGZwwng&fp=firefox&sni=x5.ru&sid=dee38141&spx=%2F167c45b2d4fc77f"
+    },
+    {
+      "name": "🇩🇪 Германия",
+      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@gr3.epsiquadvpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.krakenlabs.ru&fp=firefox&pbk=2FgxEhFKfJ3-qAG8_O1YmAhkAIUmj5HzPONHcpQXc0E&sid=007a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20GR3-VLESS"
+    },
+    {
+      "name": "🇩🇪 Германия 2",
+      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@gr3.epsiquadvpn.com:8443?encryption=none&security=reality&sni=de.krakenlabs.ru&fp=firefox&pbk=SOgcJaSeYAYXFHuEQPLKJkNManWmtv6QaJRN6eUl_Rs&sid=0becd6436c94&spx=%2F&type=xhttp&mode=auto&host=gr3.epsiquadvpn.com&path=%2FmNyKxrxhA9hd1pNt9tjRa2NqqHmCqMKdWmBBQmcrWiUCfoCPaqgS76imiwxBcR8zSWn2Hoe6zTwZGpxMnDPSgAoFgdQYm5tN6ZL#%F0%9F%87%A9%F0%9F%87%AA%20GR3-XHTTP"
+    },
+    {
+      "name": "🇸🇪 Швеция",
+      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@swe1.epsiquadvpn.com:8443?encryption=none&security=reality&sni=se.krakenlabs.ru&fp=firefox&pbk=LjOoLaeATl-CEvVf_UmvWjfIJ9gQHpZ3roYxVFKJoDQ&sid=d84af913bbd0&spx=%2F&type=xhttp&mode=auto&host=swe1.epsiquadvpn.com&path=%2FmNyKxrxhA9hd1pNt9tjRa2NqqHmCqMKdWmBBQmcrWiUCfoCPaqgS76imiwxBcR8zSWn2Hoe6zTwZGpxMnDPSgAoFgdQYm5tN6ZL#%F0%9F%87%B8%F0%9F%87%AA%20SWE1-XHTTP"
+    },
+    {
+      "name": "🇸🇪 Швеция 2",
+      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@swe1.epsiquadvpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=se.krakenlabs.ru&fp=firefox&pbk=_NgDRfKB0I0nInhrZt_ha1sIGMw8jHNzAvu_LSdCZBI&sid=d84af913bbd0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20SWE1-VLESS"
     }
   ],
   "update": {
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 21.09.2026 17:48",
+    "release_notes": "Обновление серверов: 22.09.2026 17:33",
     "required": false
   },
   "update_windows": {
