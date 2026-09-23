@@ -1,43 +1,27 @@
 {
   "configs": [
     {
-      "name": "🇺🇸 США",
-      "url": "vless://5ace5824-65e4-462f-bee8-5c41108f7bd1@2.56.122.187:9345?encryption=mlkem768x25519plus.native.0rtt.aDFqFashbnqU2dyR5RZNKqw5KV9jGn7vWWT01Q2RY0I&security=reality&sni=x5.ru&fp=firefox&pbk=Nzv66--PvQ8ix9ZCPLYk346ZoFjAK1A1IeXqUodoBRI&sid=bf222597&spx=%2Fae7f4fe29c0b96e&type=xhttp&mode=auto&host=ads.x5.ru&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%D0%A1%D0%A8%D0%90"
+      "name": "🇯🇵 Япония",
+      "url": "vless://0d801a88-b4b4-4dba-8d74-68e733532e22@5.182.4.144:447?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=ASe9wkK_7F2v9mo-AHqAbrfpLDHNV4QDbp1EO6g3jVQ&sid=c226283c4de5b1ad&type=tcp&headerType=none#190_russia_vless-tcp-relay%3A3"
     },
     {
-      "name": "🇦🇹 Австрия",
-      "url": "vless://2f4d11bf-5143-4b81-8aab-d96f92e99670@193.233.201.109:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.-HYhG7sWzdJj9oAsff1a9HrW9IV_siabZUmI9ttQIX0&path=%2F&host=ads.x5.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=b1t6qmb4RHuRgIF3s5sgzMYL3y9zLleSMh66Hy473Cw&fp=firefox&sni=xn--d1acpjx3f.xn--p1ai&sid=7a3200&spx=%2F45e3ccb2ec16cc9#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F"
+      "name": "🇯🇵 Япония 2",
+      "url": "vless://0d801a88-b4b4-4dba-8d74-68e733532e22@5.182.4.144:2087?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=ASe9wkK_7F2v9mo-AHqAbrfpLDHNV4QDbp1EO6g3jVQ&sid=c226283c4de5b1ad&type=grpc&mode=gun&authority=&serviceName=grpc#wfp-in-190"
     },
     {
-      "name": "🇫🇮 Финляндия",
-      "url": "vless://f86c0a23-4630-4a01-9999-7a24b4c1826a@45.128.60.254:8443?type=xhttp&encryption=mlkem768x25519plus.native.0rtt.a6SWp4fvyGa0twtD0tw_IriAOmprXZmJI6tnzW8ACQs&path=%2F&host=ads.x5.ru&mode=auto&x_padding_bytes=100-1000&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&security=reality&pbk=x5yD4OeOIEQz6_u4KZni5wnNGIm-coXHm2V0iS3LzU0&fp=firefox&sni=x5.ru&sid=3f&spx=%2F527383828770285"
+      "name": "🇯🇵 Япония 3",
+      "url": "vless://9fcc6131-1c90-4160-9082-44f8398c1e6b@5.182.4.136:2087?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=oOvDRPKX8NGsNno2jZTzH2BObqzuNIX3S6JvUoRwl38&sid=c226283c4de5b1ad&type=grpc&mode=gun&authority=&serviceName=grpc#wfp-in-187"
     },
     {
-      "name": "🇫🇷 Франция",
-      "url": "vless://d888b25a-47ee-4dcb-a5bd-aa6b67ec8520@81.19.137.218:8443?encryption=mlkem768x25519plus.native.0rtt.yycaTVUbsS4w9TGWHTxNUbr88q_xSCS50Amf6hhAMV4&security=reality&sni=x5.ru&fp=chrome&pbk=cJ09ECX2_JzBZsDLjA7-0rwA4zeluyJcsUHyqYss72g&sid=12&spx=%2F8a77c55fa1a1928&type=xhttp&mode=auto&host=ads.x5.ru&path=%2F&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
-    },
-    {
-      "name": "🇩🇪 Германия",
-      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@gr3.epsiquadvpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=de.krakenlabs.ru&fp=firefox&pbk=2FgxEhFKfJ3-qAG8_O1YmAhkAIUmj5HzPONHcpQXc0E&sid=007a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20GR3-VLESS"
-    },
-    {
-      "name": "🇩🇪 Германия 2",
-      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@gr3.epsiquadvpn.com:8443?encryption=none&security=reality&sni=de.krakenlabs.ru&fp=firefox&pbk=SOgcJaSeYAYXFHuEQPLKJkNManWmtv6QaJRN6eUl_Rs&sid=0becd6436c94&spx=%2F&type=xhttp&mode=auto&host=gr3.epsiquadvpn.com&path=%2FmNyKxrxhA9hd1pNt9tjRa2NqqHmCqMKdWmBBQmcrWiUCfoCPaqgS76imiwxBcR8zSWn2Hoe6zTwZGpxMnDPSgAoFgdQYm5tN6ZL#%F0%9F%87%A9%F0%9F%87%AA%20GR3-XHTTP"
-    },
-    {
-      "name": "🇸🇪 Швеция",
-      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@swe1.epsiquadvpn.com:8443?encryption=none&security=reality&sni=se.krakenlabs.ru&fp=firefox&pbk=LjOoLaeATl-CEvVf_UmvWjfIJ9gQHpZ3roYxVFKJoDQ&sid=d84af913bbd0&spx=%2F&type=xhttp&mode=auto&host=swe1.epsiquadvpn.com&path=%2FmNyKxrxhA9hd1pNt9tjRa2NqqHmCqMKdWmBBQmcrWiUCfoCPaqgS76imiwxBcR8zSWn2Hoe6zTwZGpxMnDPSgAoFgdQYm5tN6ZL#%F0%9F%87%B8%F0%9F%87%AA%20SWE1-XHTTP"
-    },
-    {
-      "name": "🇸🇪 Швеция 2",
-      "url": "vless://7c5d78e8-73f3-4a81-b0d2-18e0de36dd4a@swe1.epsiquadvpn.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=se.krakenlabs.ru&fp=firefox&pbk=_NgDRfKB0I0nInhrZt_ha1sIGMw8jHNzAvu_LSdCZBI&sid=d84af913bbd0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20SWE1-VLESS"
+      "name": "🇯🇵 Япония 4",
+      "url": "vless://c25b438f-e4c2-48ab-b4e5-a46f7330c471@80.249.131.236:444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&sid=c226283c4de5b1ad&type=tcp&headerType=none#189_russia_vless-tcp-relay%3A1"
     }
   ],
   "update": {
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 22.09.2026 18:56",
+    "release_notes": "Обновление серверов: 23.09.2026 13:30",
     "required": false
   },
   "update_windows": {
