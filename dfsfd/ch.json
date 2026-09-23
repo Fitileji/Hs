@@ -1,6 +1,30 @@
 {
   "configs": [
     {
+      "name": "🇬🇧 Великобритания 6",
+      "url": "vless://0ff60957-a410-44db-8a87-2230a53ffe30@31.76.39.69:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=O-Lc3jIogKz_M207qsXC0eWk1Q7JPHnzGaBbSqihqyc&sid=c226283c4de5b1ad&type=tcp&headerType=none#163_united-kingdom_vless-tcp"
+    },
+    {
+      "name": "🇬🇧 Великобритания 5",
+      "url": "vless://97358d33-79c1-4114-ae0f-9ab3954bac78@31.76.39.237:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=TL_YAUV9_GXeojD2maI7T_X9nCzFG0NzOeOTvaH7BBI&sid=c226283c4de5b1ad&type=tcp&headerType=none#201_united-kingdom_vless-tcp"
+    },
+    {
+      "name": "🇬🇧 Великобритания 4",
+      "url": "vless://3c8d886d-42e2-4ebd-a20b-712197abc986@31.76.39.236:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=NZXAeQhvvxKRqxUY2dZZp1qO47rbVONDk2975AqkC3Q&sid=c226283c4de5b1ad&type=tcp&headerType=none#212_united-kingdom_vless-tcp"
+    },
+    {
+      "name": "🇬🇧 Великобритания 3",
+      "url": "vless://23b47c42-4665-4478-86e6-3cd3c549981f@31.76.39.235:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=7HiCkYd4_x_kZ_xTATGD6okIxLyWs7mWZmKrv5zNkg0&sid=c226283c4de5b1ad&type=tcp&headerType=none#200_united-kingdom_vless-tcp"
+    },
+    {
+      "name": "🇬🇧 Великобритания 2",
+      "url": "vless://922c97c4-1e64-4b5d-bf93-28ae07807afc@31.76.39.75:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=_4k2jdTYVWtRsBWiTlsn-rUiiIxfMIPDYZF75p6YcUg&sid=c226283c4de5b1ad&type=tcp&headerType=none#164_united-kingdom_vless-tcp"
+    },
+    {
+      "name": "🇬🇧 Великобритания",
+      "url": "vless://bb7b40d3-caf9-415e-be67-a3b3f836e023@31.76.39.70:445?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=MsHTpC-TZtMiUeogbmCOLIrkpfoC0WicLIH1PRNLdzc&sid=c226283c4de5b1ad&type=tcp&headerType=none#162_united-kingdom_vless-tcp"
+    },
+    {
       "name": "🇯🇵 Япония",
       "url": "vless://c25b438f-e4c2-48ab-b4e5-a46f7330c471@80.249.131.236:444?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=PQ5LcDN2KVyKcRBnKnXwYc-WVCP0qBUd3NpLMjEs6yU&sid=c226283c4de5b1ad&type=tcp&headerType=none#189_russia_vless-tcp-relay%3A1"
     },
@@ -21,7 +45,7 @@
     "version": "2.0.1",
     "build_number": 11,
     "download_url": "https://mirror-oficiall.ru/MirrorVPN-2.0.1.apk",
-    "release_notes": "Обновление серверов: 23.09.2026 13:33",
+    "release_notes": "Обновление серверов: 23.09.2026 13:48",
     "required": false
   },
   "update_windows": {
