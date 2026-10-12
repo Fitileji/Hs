@@ -113,12 +113,8 @@
       "url": "vless://3db6eb7e-c548-11f1-9902-a337233c6cda@193.27.200.200:443?type=tcp&headerType=none&security=reality&encryption=none&sni=swe.wizard.select&fp=firefox&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&sid=3b20e438da99&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇪🇪 Эстония 1",
+      "name": "🇪🇪 Эстония",
       "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=est.nztvpn.com&fp=random&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%28Lasnam%C3%A4e%20linnaosa%29%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇪🇪 Эстония 2",
-      "url": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=firefox&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇫🇮 Финляндия 1",
@@ -134,15 +130,15 @@
     },
     {
       "name": "🇩🇪 Германия 1",
-      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.39.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de5.nztvpn.com&fp=random&pbk=7vGRh29DmlE13UV_fLUfl2bUpqkmJprSenLZXS8XJEc&sid=3560f3d77a767c3a&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D"
+      "url": "vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-114.mirra.now&path=VideoRenderer&serviceName=VideoRenderer#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия 2",
-      "url": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-mi-27.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-mi-27.spbstudentlife.com&fp=randomized&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&sid=33e6fe7545082926&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
+      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.39.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de5.nztvpn.com&fp=random&pbk=7vGRh29DmlE13UV_fLUfl2bUpqkmJprSenLZXS8XJEc&sid=3560f3d77a767c3a&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия 3",
-      "url": "vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-114.mirra.now&path=VideoRenderer&serviceName=VideoRenderer#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
+      "url": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-mi-27.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-mi-27.spbstudentlife.com&fp=randomized&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&sid=33e6fe7545082926&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇰🇷 Южная Корея",
@@ -150,11 +146,11 @@
     },
     {
       "name": "🇺🇸 США 1",
-      "url": "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?encryption=none&fp=&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&security=reality&sid=4c69c4b51c580d60&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D"
+      "url": "vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&path=/api/v1&sni=hopp-transit.1cooldns.com&fp=random#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Tel%20Aviv%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇺🇸 США 2",
-      "url": "vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&path=/api/v1&sni=hopp-transit.1cooldns.com&fp=random#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Tel%20Aviv%20%7C%20%5BBL%5D"
+      "url": "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?encryption=none&fp=&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&security=reality&sid=4c69c4b51c580d60&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇺🇸 США 3",
@@ -165,12 +161,12 @@
       "url": "vless://924fe46b-b6e0-479e-ae7f-a3661680e706@95.111.212.241:443?security=reality&type=tcp&sni=www.samsung.com&flow=xtls-rprx-vision&fp=chrome&pbk=BSTnEthBXhb_UyuWpLBDxg82-C-wcpU2_kOD5ohS12g&sid=3a697adb4c58d495#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇷🇺 Россия 1",
-      "url": "vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?type=grpc&security=reality&fp=random&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&sid=7ec4374ffc6308fd&sni=www.yandex.ru&serviceName=astracat#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D"
+      "name": "🇺🇸 США 5",
+      "url": "vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@188.114.97.6:8080?host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇷🇺 Россия 2",
-      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@159.194.244.247:443?encryption=none&mode=gun&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&security=reality&serviceName=ru-api&sni=ru-1-3.unturned-rust-dead.lol&type=grpc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D"
+      "name": "🇷🇺 Россия",
+      "url": "vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?type=grpc&security=reality&fp=random&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&sid=7ec4374ffc6308fd&sni=www.yandex.ru&serviceName=astracat#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇭🇰 Гонконг 1",
@@ -182,7 +178,7 @@
     },
     {
       "name": "🇳🇱 Нидерланды 1",
-      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 4",
@@ -190,11 +186,11 @@
     },
     {
       "name": "🇳🇱 Нидерланды 5",
-      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@45.94.36.15:443?encryption=none&security=reality&sni=nl-1-6.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=nl-grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-1.pythonmakemigreat.wiki:443?security=reality&sni=nl-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 6",
-      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-1.pythonmakemigreat.wiki:443?security=reality&sni=nl-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D"
+      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@45.94.36.15:443?encryption=none&security=reality&sni=nl-1-6.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=nl-grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 7",
@@ -202,7 +198,7 @@
     },
     {
       "name": "🇳🇱 Нидерланды 8",
-      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 9",
@@ -214,11 +210,11 @@
     },
     {
       "name": "🇿🇦 ЮАР 1",
-      "url": "vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?security=reality&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
+      "url": "vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇿🇦 ЮАР 2",
-      "url": "vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
+      "url": "vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?security=reality&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 1",
@@ -226,11 +222,11 @@
     },
     {
       "name": "🇬🇧 Великобритания 7",
-      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@135.136.176.183:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
+      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@85.217.170.89:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 8",
-      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@85.217.170.89:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
+      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@135.136.176.183:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 9",
@@ -238,11 +234,11 @@
     },
     {
       "name": "🇪🇸 Испания 1",
-      "url": "vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&spx=%2F#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
+      "url": "vless://440b5558-e701-4c6f-8de2-d24dcf1ebbe6@es3.h1cloud.net:25136?type=tcp&security=reality&fp=random&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇪🇸 Испания 2",
-      "url": "vless://440b5558-e701-4c6f-8de2-d24dcf1ebbe6@es3.h1cloud.net:25136?type=tcp&security=reality&fp=random&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
+      "url": "vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&spx=%2F#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇵🇱 Польша 1",
@@ -260,7 +256,7 @@
   "configs_v2": [
     {
       "name": "⚡ Авто",
-      "url": "{\"dns\":{\"servers\":[\"1.1.1.1\",\"1.0.0.1\"],\"queryStrategy\":\"UseIPv4\"},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"domainMatcher\":\"hybrid\",\"rules\":[{\"type\":\"field\",\"protocol\":[\"bittorrent\"],\"outboundTag\":\"block\"},{\"type\":\"field\",\"outboundTag\":\"block\",\"domain\":[\"domain:doubleclick.net\",\"domain:googlesyndication.com\",\"domain:google-analytics.com\",\"domain:mc.yandex.ru\",\"domain:an.yandex.ru\",\"domain:adfox.ru\",\"domain:criteo.com\",\"domain:taboola.com\"]},{\"type\":\"field\",\"network\":\"udp\",\"port\":443,\"outboundTag\":\"block\",\"domain\":[\"domain:youtube.com\",\"domain:googlevideo.com\",\"domain:ytimg.com\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"ip\":[\"127.0.0.0/8\",\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"geoip:private\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"domain\":[\"regexp:\\\\.ru$\",\"regexp:\\\\.su$\",\"regexp:\\\\.xn--p1ai$\",\"geosite:category-ru\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"ip\":[\"geoip:ru\"]},{\"type\":\"field\",\"network\":\"tcp,udp\",\"balancerTag\":\"Super_Balancer\"}],\"balancers\":[{\"tag\":\"Super_Balancer\",\"selector\":[\"proxy\"],\"strategy\":{\"type\":\"leastLoad\",\"settings\":{\"maxRTT\":\"2s\",\"expected\":2,\"baselines\":[\"120ms\",\"250ms\",\"500ms\"],\"tolerance\":0.01}},\"fallbackTag\":\"block\"}]},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"udp\":true,\"auth\":\"noauth\"},\"sniffing\":{\"enabled\":true,\"routeOnly\":true,\"destOverride\":[\"http\",\"tls\",\"quic\"]}}],\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"153.76.185.168\",\"port\":3090,\"users\":[{\"id\":\"0e9b538d-21d6-49c6-93da-20634d589497\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"none\",\"grpcSettings\":{\"serviceName\":\"vless\",\"multiMode\":true}},\"tag\":\"proxy\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"87.228.92.114\",\"port\":25481,\"users\":[{\"id\":\"68c3d665-b2b5-4ffb-9f37-9f3d8c47324d\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"grpc\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"www.bing.com\",\"fingerprint\":\"android\",\"publicKey\":\"mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E\",\"shortId\":\"3b84fc70657725af\",\"spiderX\":\"/\"},\"grpcSettings\":{\"serviceName\":\"8cb5baa18cd7\"}},\"tag\":\"proxy-2\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"138.124.31.158\",\"port\":443,\"users\":[{\"id\":\"c3b8fd68-8c05-4864-abf9-7ea6d348efe0\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"xhttp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"anzgopronet.com\",\"fingerprint\":\"android\",\"publicKey\":\"rVpihOi7AgliVcbq2EpToFR-JwVCBgOZrGJJOjBwmkc\",\"shortId\":\"83ade1c9d5d070b0\",\"spiderX\":\"/\"},\"xhttpSettings\":{\"path\":\"/assets/v1/sync\",\"host\":\"anzgopronet.com\",\"mode\":\"packet-up\"}},\"tag\":\"proxy-3\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"3696b38bsg.murphyweb.sbs\",\"port\":32134,\"users\":[{\"id\":\"5b01dc2d-6892-49b8-8289-3f73a32e00e4\",\"encryption\":\"none\",\"flow\":\"xtls-rprx-vision\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"buylite.music.apple.com\",\"fingerprint\":\"android\",\"publicKey\":\"OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4\",\"shortId\":\"6c6c7c97\",\"spiderX\":\"/\"}},\"tag\":\"proxy-4\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"se3.h1cloud.net\",\"port\":25119,\"users\":[{\"id\":\"f90b7d43-69e2-4b46-a672-8029bc6796a2\",\"encryption\":\"none\",\"flow\":\"xtls-rprx-vision\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"www.samsung.com\",\"fingerprint\":\"android\",\"publicKey\":\"szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4\",\"shortId\":\"10f517\",\"spiderX\":\"/\"}},\"tag\":\"proxy-5\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"135.136.176.183\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-6\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"141.133.174.59\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"chrome\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-7\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"185.223.252.175\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-8\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"185.224.132.21\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-9\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"23.146.248.149\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"chrome\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-10\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"45.12.69.152\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-11\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"85.217.170.89\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-12\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"91.215.154.48\",\"port\":443,\"users\":[{\"id\":\"b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"serverName\":\"rnxq-1lpi3m.linmeisoft.com\",\"fingerprint\":\"android\"},\"wsSettings\":{\"path\":\"/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5\",\"host\":\"rnxq-1lpi3m.linmeisoft.com\"}},\"tag\":\"proxy-13\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"217.69.167.21\",\"port\":43000,\"users\":[{\"id\":\"4257fc45-dfb0-4568-9d7c-cc3e1798ff8d\",\"encryption\":\"none\",\"flow\":\"xtls-rprx-vision\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"217.69.167.21\",\"fingerprint\":\"android\",\"publicKey\":\"3vk0T-2J4tt8PmiGi-uNFb0eT8oL58CfvLBeBEf_g3Y\",\"shortId\":\"b32ee68d\",\"spiderX\":\"/\"}},\"tag\":\"proxy-14\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"yellow-breeze-989b.348-9b8.workers.dev\",\"port\":8880,\"users\":[{\"id\":\"f9a53aa5-774e-4556-b2b7-d8b57b423b97\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"none\",\"wsSettings\":{\"path\":\"/pyip=ProxyIP.KR.CMLiussss.net\",\"headers\":{}}},\"tag\":\"proxy-15\"},{\"tag\":\"direct\",\"protocol\":\"freedom\"},{\"tag\":\"block\",\"protocol\":\"blackhole\"}],\"burstObservatory\":{\"subjectSelector\":[\"proxy\"],\"pingConfig\":{\"destination\":\"https://www.gstatic.com/generate_204\",\"connectivity\":\"\",\"interval\":\"15s\",\"timeout\":\"3s\",\"sampling\":1}},\"remarks\":\"⚡ Авто\"}"
+      "url": "{\"dns\":{\"servers\":[\"1.1.1.1\",\"1.0.0.1\"],\"queryStrategy\":\"UseIPv4\"},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"domainMatcher\":\"hybrid\",\"rules\":[{\"type\":\"field\",\"protocol\":[\"bittorrent\"],\"outboundTag\":\"block\"},{\"type\":\"field\",\"outboundTag\":\"block\",\"domain\":[\"domain:doubleclick.net\",\"domain:googlesyndication.com\",\"domain:google-analytics.com\",\"domain:mc.yandex.ru\",\"domain:an.yandex.ru\",\"domain:adfox.ru\",\"domain:criteo.com\",\"domain:taboola.com\"]},{\"type\":\"field\",\"network\":\"udp\",\"port\":443,\"outboundTag\":\"block\",\"domain\":[\"domain:youtube.com\",\"domain:googlevideo.com\",\"domain:ytimg.com\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"ip\":[\"127.0.0.0/8\",\"10.0.0.0/8\",\"172.16.0.0/12\",\"192.168.0.0/16\",\"geoip:private\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"domain\":[\"regexp:\\\\.ru$\",\"regexp:\\\\.su$\",\"regexp:\\\\.xn--p1ai$\",\"geosite:category-ru\"]},{\"type\":\"field\",\"outboundTag\":\"direct\",\"ip\":[\"geoip:ru\"]},{\"type\":\"field\",\"network\":\"tcp,udp\",\"balancerTag\":\"Super_Balancer\"}],\"balancers\":[{\"tag\":\"Super_Balancer\",\"selector\":[\"proxy\"],\"strategy\":{\"type\":\"leastLoad\",\"settings\":{\"maxRTT\":\"2s\",\"expected\":2,\"baselines\":[\"120ms\",\"250ms\",\"500ms\"],\"tolerance\":0.01}},\"fallbackTag\":\"block\"}]},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"udp\":true,\"auth\":\"noauth\"},\"sniffing\":{\"enabled\":true,\"routeOnly\":true,\"destOverride\":[\"http\",\"tls\",\"quic\"]}}],\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"lists.soloramtin.cyou\",\"port\":443,\"users\":[{\"id\":\"67eb6b17-7797-4ded-bf52-423c4c5f6cbd\",\"encryption\":\"none\",\"flow\":\"xtls-rprx-vision\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"www.foxsports.com\",\"fingerprint\":\"android\",\"publicKey\":\"G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY\",\"shortId\":\"91af08b1ce1f\",\"spiderX\":\"/\"}},\"tag\":\"proxy\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"3696b38bsg.murphyweb.sbs\",\"port\":32134,\"users\":[{\"id\":\"5b01dc2d-6892-49b8-8289-3f73a32e00e4\",\"encryption\":\"none\",\"flow\":\"xtls-rprx-vision\"}]}]},\"streamSettings\":{\"network\":\"tcp\",\"security\":\"reality\",\"realitySettings\":{\"serverName\":\"buylite.music.apple.com\",\"fingerprint\":\"chrome\",\"publicKey\":\"OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4\",\"shortId\":\"6c6c7c97\",\"spiderX\":\"/\"}},\"tag\":\"proxy-2\"},{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"188.114.97.6\",\"port\":8080,\"users\":[{\"id\":\"9e648bb6-25f7-4b16-9949-55ac0952d66b\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"none\",\"wsSettings\":{\"path\":\"/pyip=ProxyIP.US.CMLiussss.net\",\"host\":\"lingering-grass-6728.131-a78.workers.dev\"}},\"tag\":\"proxy-3\"},{\"tag\":\"direct\",\"protocol\":\"freedom\"},{\"tag\":\"block\",\"protocol\":\"blackhole\"}],\"burstObservatory\":{\"subjectSelector\":[\"proxy\"],\"pingConfig\":{\"destination\":\"https://www.gstatic.com/generate_204\",\"connectivity\":\"\",\"interval\":\"15s\",\"timeout\":\"3s\",\"sampling\":1}},\"remarks\":\"⚡ Авто\"}"
     },
     {
       "name": "🇵🇱 Польша",
@@ -375,12 +371,8 @@
       "url": "vless://3db6eb7e-c548-11f1-9902-a337233c6cda@193.27.200.200:443?type=tcp&headerType=none&security=reality&encryption=none&sni=swe.wizard.select&fp=firefox&pbk=Sikc1gu5t_uwitf1xTTChP9tpT_sjY530p2tioHbmz0&sid=3b20e438da99&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇪🇪 Эстония 1",
+      "name": "🇪🇪 Эстония",
       "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=est.nztvpn.com&fp=random&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%28Lasnam%C3%A4e%20linnaosa%29%20%7C%20%5BBL%5D"
-    },
-    {
-      "name": "🇪🇪 Эстония 2",
-      "url": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=firefox&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇫🇮 Финляндия 1",
@@ -396,15 +388,15 @@
     },
     {
       "name": "🇩🇪 Германия 1",
-      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.39.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de5.nztvpn.com&fp=random&pbk=7vGRh29DmlE13UV_fLUfl2bUpqkmJprSenLZXS8XJEc&sid=3560f3d77a767c3a&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D"
+      "url": "vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-114.mirra.now&path=VideoRenderer&serviceName=VideoRenderer#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия 2",
-      "url": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-mi-27.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-mi-27.spbstudentlife.com&fp=randomized&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&sid=33e6fe7545082926&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
+      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.39.4:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de5.nztvpn.com&fp=random&pbk=7vGRh29DmlE13UV_fLUfl2bUpqkmJprSenLZXS8XJEc&sid=3560f3d77a767c3a&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇩🇪 Германия 3",
-      "url": "vless://8ffa41d4-e6b5-4af5-a8a9-69e26bec75f5@renderer-bridge-2-114.mirra.now:443?type=grpc&security=tls&fp=firefox&sni=renderer-bridge-2-114.mirra.now&path=VideoRenderer&serviceName=VideoRenderer#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
+      "url": "vless://0cf8e402-e801-4aeb-9b7a-00a933f9f1c1@app-mi-27.spbstudentlife.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-mi-27.spbstudentlife.com&fp=randomized&pbk=kInywP138eVlHbS7wodX2Q_R1OC0JdViypEeguSvpQ0&sid=33e6fe7545082926&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇰🇷 Южная Корея",
@@ -412,11 +404,11 @@
     },
     {
       "name": "🇺🇸 США 1",
-      "url": "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?encryption=none&fp=&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&security=reality&sid=4c69c4b51c580d60&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D"
+      "url": "vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&path=/api/v1&sni=hopp-transit.1cooldns.com&fp=random#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Tel%20Aviv%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇺🇸 США 2",
-      "url": "vless://8dd0830f-18a7-4bfa-813d-44223c51c8b4@85.209.157.178:995?type=httpupgrade&security=tls&path=/api/v1&sni=hopp-transit.1cooldns.com&fp=random#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Tel%20Aviv%20%7C%20%5BBL%5D"
+      "url": "vless://d6d58f01-b5ce-4d47-bce0-b8a806155852@136.107.170.196:443?encryption=none&fp=&pbk=L1S0DpFtHPBeyENZUvJPcrFZIct6kcHUPxuzNaGXIFY&security=reality&sid=4c69c4b51c580d60&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Washington%20D.C.%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇺🇸 США 3",
@@ -427,12 +419,12 @@
       "url": "vless://924fe46b-b6e0-479e-ae7f-a3661680e706@95.111.212.241:443?security=reality&type=tcp&sni=www.samsung.com&flow=xtls-rprx-vision&fp=chrome&pbk=BSTnEthBXhb_UyuWpLBDxg82-C-wcpU2_kOD5ohS12g&sid=3a697adb4c58d495#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇷🇺 Россия 1",
-      "url": "vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?type=grpc&security=reality&fp=random&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&sid=7ec4374ffc6308fd&sni=www.yandex.ru&serviceName=astracat#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D"
+      "name": "🇺🇸 США 5",
+      "url": "vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@188.114.97.6:8080?host=lingering-grass-6728.131-a78.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D"
     },
     {
-      "name": "🇷🇺 Россия 2",
-      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@159.194.244.247:443?encryption=none&mode=gun&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&security=reality&serviceName=ru-api&sni=ru-1-3.unturned-rust-dead.lol&type=grpc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D"
+      "name": "🇷🇺 Россия",
+      "url": "vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?type=grpc&security=reality&fp=random&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&sid=7ec4374ffc6308fd&sni=www.yandex.ru&serviceName=astracat#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇭🇰 Гонконг 1",
@@ -444,7 +436,7 @@
     },
     {
       "name": "🇳🇱 Нидерланды 1",
-      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 4",
@@ -452,11 +444,11 @@
     },
     {
       "name": "🇳🇱 Нидерланды 5",
-      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@45.94.36.15:443?encryption=none&security=reality&sni=nl-1-6.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=nl-grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
+      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-1.pythonmakemigreat.wiki:443?security=reality&sni=nl-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 6",
-      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-1.pythonmakemigreat.wiki:443?security=reality&sni=nl-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D"
+      "url": "vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@45.94.36.15:443?encryption=none&security=reality&sni=nl-1-6.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=nl-grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 7",
@@ -464,7 +456,7 @@
     },
     {
       "name": "🇳🇱 Нидерланды 8",
-      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
+      "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇳🇱 Нидерланды 9",
@@ -476,11 +468,11 @@
     },
     {
       "name": "🇿🇦 ЮАР 1",
-      "url": "vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?security=reality&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
+      "url": "vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇿🇦 ЮАР 2",
-      "url": "vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
+      "url": "vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?security=reality&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 1",
@@ -488,11 +480,11 @@
     },
     {
       "name": "🇬🇧 Великобритания 7",
-      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@135.136.176.183:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
+      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@85.217.170.89:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 8",
-      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@85.217.170.89:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
+      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@135.136.176.183:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇬🇧 Великобритания 9",
@@ -500,11 +492,11 @@
     },
     {
       "name": "🇪🇸 Испания 1",
-      "url": "vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&spx=%2F#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
+      "url": "vless://440b5558-e701-4c6f-8de2-d24dcf1ebbe6@es3.h1cloud.net:25136?type=tcp&security=reality&fp=random&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇪🇸 Испания 2",
-      "url": "vless://440b5558-e701-4c6f-8de2-d24dcf1ebbe6@es3.h1cloud.net:25136?type=tcp&security=reality&fp=random&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
+      "url": "vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&spx=%2F#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D"
     },
     {
       "name": "🇵🇱 Польша 1",
